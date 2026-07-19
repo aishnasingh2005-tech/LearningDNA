@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Learning DNA Report</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🧠 Learning DNA Report</h1>
+
+    <p class="subtitle">
+        AI Generated Personalized Learning Report
+    </p>
+
+    <!-- Prediction Card -->
+
+    <div class="result-card">
+
+        <h2>👋 Hello {{ name }}</h2>
+
+        <br>
+
+        <h3>Your Predicted Learning Style</h3>
+
+        <br>
+
+        <div class="style">
+            {{ prediction }}
+        </div>
+
+        <div class="confidence">
+            Confidence :
+            <strong>{{ confidence }}%</strong>
+        </div>
+
+        <div class="progress">
+
+            <div class="progress-bar"
+                 style="width: {{ confidence }}%;">
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- Recommendations -->
+
+    <h2 class="section-title">
+        📚 Recommended Study Methods
+    </h2>
+
+    <div class="cards">
+
+        {% for tip in recommendations %}
+
+        <div class="card">
+
+            <h3>Recommendation</h3>
+
+            <p>{{ tip }}</p>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+    <!-- Strengths -->
+
+    <h2 class="section-title">
+        💪 Your Strengths
+    </h2>
+
+    <div class="cards">
+
+        {% for item in strengths %}
+
+        <div class="card">
+
+            <h3>Strength</h3>
+
+            <p>{{ item }}</p>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+    <!-- Weaknesses -->
+
+    <h2 class="section-title">
+        ⚠ Areas to Improve
+    </h2>
+
+    <div class="cards">
+
+        {% for item in weaknesses %}
+
+        <div class="card">
+
+            <h3>Improvement</h3>
+
+            <p>{{ item }}</p>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+    <!-- Weekly Study Plan -->
+
+    <h2 class="section-title">
+        📅 Weekly AI Study Plan
+    </h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>Monday</h3>
+            <p>📺 Watch educational videos for 1 hour.</p>
+        </div>
+
+        <div class="card">
+            <h3>Tuesday</h3>
+            <p>🧠 Create mind maps and revise concepts.</p>
+        </div>
+
+        <div class="card">
+            <h3>Wednesday</h3>
+            <p>📝 Attempt quizzes and evaluate yourself.</p>
+        </div>
+
+        <div class="card">
+            <h3>Thursday</h3>
+            <p>💻 Practice with hands-on exercises.</p>
+        </div>
+
+        <div class="card">
+            <h3>Friday</h3>
+            <p>📚 Revise all topics and solve doubts.</p>
+        </div>
+
+    </div>
+
+    <!-- Download Button -->
+
+    <div style="text-align:center; margin-top:35px; margin-bottom:25px;">
+
+        <a href="/download">
+
+            <button class="download-btn">
+
+                📄 Download My Report
+
+            </button>
+
+        </a>
+
+    </div>
+
+    <!-- Footer -->
+
+    <div class="footer">
+
+        <hr>
+
+        <br>
+
+        <h2>🎉 Keep Learning, Keep Growing!</h2>
+
+        <p>
+
+            This report is generated using Machine Learning
+            and is intended to provide personalized study guidance.
+
+        </p>
+
+    </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>

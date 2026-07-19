@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Prediction History</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📊 Prediction History</h1>
+
+    <p class="subtitle">
+        All Predictions Stored in SQLite Database
+    </p>
+
+    <!-- Search Box -->
+
+    <form action="/history" method="GET">
+
+        <input
+            type="text"
+            name="search"
+            placeholder="🔍 Search Student Name..."
+            value="{{ search }}"
+        >
+
+        <button type="submit">
+
+            🔍 Search
+
+        </button>
+
+    </form>
+
+    <br>
+
+    <div style="overflow-x:auto;">
+
+    <table class="history-table">
+
+        <thead>
+
+        <tr>
+
+            <th>ID</th>
+
+            <th>Name</th>
+
+            <th>Age</th>
+
+            <th>Learning Style</th>
+
+            <th>Confidence</th>
+
+            <th>Date</th>
+            <th>Action</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+        {% if records %}
+
+            {% for row in records %}
+
+            <tr>
+
+                <td>{{ row[0] }}</td>
+
+                <td>{{ row[1] }}</td>
+
+                <td>{{ row[2] }}</td>
+
+                <td>{{ row[3] }}</td>
+
+                <td>{{ row[4] }}%</td>
+
+                <td>{{ row[5] }}</td>
+
+<td>
+
+    <a href="/delete/{{ row[0] }}"
+       onclick="return confirm('Delete this prediction?')">
+
+        <button
+            style="
+                background:#ef4444;
+                color:white;
+                border:none;
+                padding:8px 14px;
+                border-radius:8px;
+                cursor:pointer;
+            ">
+
+            🗑 Delete
+
+        </button>
+
+    </a>
+
+</td>
+
+            </tr>
+
+            {% endfor %}
+
+        {% else %}
+
+            <tr>
+
+                <td colspan="7">
+
+                    No matching records found.
+
+                </td>
+
+            </tr>
+
+        {% endif %}
+
+        </tbody>
+
+    </table>
+
+    </div>
+
+    <br><br>
+
+    <div style="text-align:center;">
+
+    <a href="/export">
+
+        <button class="download-btn">
+
+            📄 Export CSV
+
+        </button>
+
+    </a>
+
+    <br><br>
+
+    <a href="/">
+
+        <button class="download-btn">
+
+            🏠 Back to Home
+
+        </button>
+
+    </a>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,351 @@
+student_id,full_name,email,phone,age,grade,city,school,enrolled_course,join_date,last_active,xp_points,lessons_completed,streak_days,quizzes_attempted,quiz_avg_score,badge,island_level,subscription_plan,referral_code
+LK0001,Advait Tiwari,advait.tiwari61@gmail.com,9789727405,12,6th,Kolkata,Delhi Public School,MERN Stack Basics - Batch 8,2025-02-20,2025-06-07,1588,25,14,5,66.0,Coder,9,Basic,LKAD8468
+LK0002,Krishna Bajaj,krishna.bajaj15@gmail.com,9627780260,14,8th,Bhopal,Amity International School,MERN Stack Basics - Batch 8,2024-11-24,2025-05-30,232,23,5,27,80.4,Beginner,4,Pro,LKKR4269
+LK0003,Avni Malhotra,avni.malhotra29@gmail.com,9448750068,14,8th,Chandigarh,Delhi Public School,MERN Stack Basics - Batch 8,2025-05-05,2025-03-22,706,60,37,23,84.7,Innovator,3,Free,LKAV1914
+LK0004,Vikram Choudhary,vikram.choudhary22@gmail.com,9524605553,13,6th,Ahmedabad,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-06-14,2025-04-30,695,67,104,21,84.0,Explorer,6,Free,LKVI3701
+LK0005,Arnav Bhatia,arnav.bhatia42@gmail.com,9697310884,13,7th,Indore,Springdales School,MERN Stack Basics - Batch 6,2024-06-26,2025-02-03,4116,29,17,32,65.3,Coder,3,Free,LKAR2948
+LK0006,Riya Kumar,riya.kumar27@gmail.com,9243420960,14,6th,Hyderabad,Modern School,MERN Stack Basics - Batch 8,2025-05-24,2025-01-16,1993,37,9,15,54.4,Coder,2,Pro,LKRI5751
+LK0007,Ruchika Rastogi,ruchika.rastogi23@gmail.com,9614978408,13,7th,Kolkata,Ryan International School,MERN Stack Basics - Batch 7,2025-04-25,2025-06-01,3945,26,8,30,59.2,Coder,4,Free,LKRU4227
+LK0008,Tanvi Kumar,tanvi.kumar34@gmail.com,9768161508,13,7th,Bangalore,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2024-01-27,2025-01-02,2781,23,72,25,72.4,Coder,3,Pro,LKTA7517
+LK0009,Govind Iyer,govind.iyer56@gmail.com,9277578208,14,7th,Lucknow,Ryan International School,MERN Stack Basics - Batch 8,2024-07-20,2025-06-15,3115,66,109,17,66.7,Beginner,6,Basic,LKGO5343
+LK0010,Harshit Mishra,harshit.mishra68@gmail.com,9449191192,14,8th,Delhi,The Shri Ram School,MERN Stack Basics - Batch 8,2024-02-09,2025-03-08,2432,80,65,22,41.5,Explorer,6,Basic,LKHA3098
+LK0011,Vedant Pandey,vedant.pandey86@gmail.com,9680594748,14,8th,Kolkata,Delhi Public School,MERN Stack Basics - Batch 8,2024-08-23,2025-03-19,4004,33,111,20,47.3,Beginner,8,Basic,LKVE7001
+LK0012,Lakshay Mehta,lakshay.mehta46@gmail.com,9618683402,12,8th,Bhopal,Springdales School,MERN Stack Basics - Batch 6,2024-08-25,2025-03-26,3962,50,24,43,74.3,Builder,8,Basic,LKLA3630
+LK0013,Navya Gupta,navya.gupta75@gmail.com,9282830609,12,8th,Indore,DAV Public School,MERN Stack Basics - Batch 7,2024-02-01,2025-04-03,4069,8,70,45,78.2,Coder,4,Basic,LKNA6196
+LK0014,Aarav Kapoor,aarav.kapoor99@gmail.com,9857428897,11,7th,Bangalore,The Shri Ram School,MERN Stack Basics - Batch 8,2024-01-22,2025-01-25,3964,61,92,29,61.4,Explorer,1,Basic,LKAA8820
+LK0015,Atharv Verma,atharv.verma18@gmail.com,9547495121,14,8th,Hyderabad,Modern School,MERN Stack Basics - Batch 7,2025-05-19,2025-01-08,1411,28,113,44,46.2,Coder,3,Basic,LKAT1945
+LK0016,Lakshay Srivastava,lakshay.srivastava29@gmail.com,9163413348,13,7th,Indore,DAV Public School,MERN Stack Basics - Batch 8,2024-04-17,2025-05-19,4877,16,68,14,37.2,Coder,9,Basic,LKLA9819
+LK0017,Navya Kapoor,navya.kapoor24@gmail.com,9705462889,11,8th,Pune,DAV Public School,MERN Stack Basics - Batch 7,2024-05-04,2025-06-01,3887,32,116,42,87.8,Coder,8,Free,LKNA3813
+LK0018,Sai Reddy,sai.reddy43@gmail.com,9758467345,13,7th,Chennai,The Shri Ram School,MERN Stack Basics - Batch 6,2024-01-12,2025-03-02,1917,62,93,20,56.0,Builder,5,Free,LKSA1770
+LK0019,Nikhil Iyer,nikhil.iyer22@gmail.com,9367808389,11,7th,Kolkata,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-09-25,2025-04-26,629,30,44,27,51.5,Explorer,9,Free,LKNI8041
+LK0020,Varun Yadav,varun.yadav47@gmail.com,9358792217,12,6th,Gurugram,DAV Public School,MERN Stack Basics - Batch 6,2024-09-01,2025-01-16,3822,52,97,48,86.8,Innovator,4,Basic,LKVA6864
+LK0021,Rahul Kumar,rahul.kumar44@gmail.com,9285956164,13,6th,Ahmedabad,Amity International School,MERN Stack Basics - Batch 6,2024-11-09,2025-02-19,1437,73,76,15,93.7,Champion,7,Basic,LKRA2474
+LK0022,Tanvi Yadav,tanvi.yadav81@gmail.com,9324271537,13,7th,Mumbai,The Shri Ram School,MERN Stack Basics - Batch 6,2024-03-19,2025-01-10,4977,45,91,6,48.0,Champion,2,Free,LKTA5380
+LK0023,Sai Verma,sai.verma56@gmail.com,9915972963,12,7th,Delhi,Delhi Public School,MERN Stack Basics - Batch 6,2025-05-30,2025-03-11,2555,3,37,48,59.0,Coder,1,Basic,LKSA1226
+LK0024,Rajan Srivastava,rajan.srivastava77@gmail.com,9315601367,14,8th,Bhopal,The Shri Ram School,MERN Stack Basics - Batch 7,2025-02-15,2025-05-17,2855,63,16,5,75.4,Champion,1,Free,LKRA7991
+LK0025,Harshit Mehta,harshit.mehta42@gmail.com,9904462659,12,6th,Pune,Modern School,MERN Stack Basics - Batch 6,2024-03-09,2025-06-21,2236,68,42,45,44.0,Champion,7,Free,LKHA4073
+LK0026,Aryan Gupta,aryan.gupta23@gmail.com,9933327787,12,8th,Chandigarh,Ryan International School,MERN Stack Basics - Batch 8,2025-05-25,2025-05-27,3384,48,79,39,42.6,Explorer,3,Basic,LKAR3249
+LK0027,Muskan Rastogi,muskan.rastogi93@gmail.com,9440930394,12,8th,Chandigarh,Springdales School,MERN Stack Basics - Batch 7,2024-04-03,2025-05-12,2079,72,30,20,39.1,Champion,8,Basic,LKMU9687
+LK0028,Darsh Pandey,darsh.pandey92@gmail.com,9184141984,12,8th,Mumbai,Springdales School,MERN Stack Basics - Batch 7,2024-06-05,2025-03-05,2557,14,25,14,90.0,Explorer,7,Free,LKDA5319
+LK0029,Vivaan Nair,vivaan.nair24@gmail.com,9845506020,13,8th,Chandigarh,Springdales School,MERN Stack Basics - Batch 8,2024-12-12,2025-05-16,1378,54,110,23,34.3,Explorer,1,Free,LKVI4592
+LK0030,Avni Kumar,avni.kumar26@gmail.com,9904208438,12,7th,Delhi,The Shri Ram School,MERN Stack Basics - Batch 8,2024-06-01,2025-05-24,3632,43,29,37,81.1,Innovator,5,Basic,LKAV8780
+LK0031,Ritvik Rastogi,ritvik.rastogi78@gmail.com,9351843453,11,6th,Indore,The Shri Ram School,MERN Stack Basics - Batch 6,2025-02-19,2025-03-19,100,10,97,14,93.1,Innovator,5,Free,LKRI7296
+LK0032,Ayaan Rao,ayaan.rao74@gmail.com,9427271354,12,6th,Kolkata,Ryan International School,MERN Stack Basics - Batch 7,2024-04-05,2025-01-24,1113,4,107,24,82.5,Builder,4,Basic,LKAY4996
+LK0033,Neha Chauhan,neha.chauhan46@gmail.com,9312470890,14,6th,Delhi,Ryan International School,MERN Stack Basics - Batch 8,2025-03-29,2025-05-24,2289,40,57,34,51.6,Beginner,6,Basic,LKNE1344
+LK0034,Shaurya Singh,shaurya.singh80@gmail.com,9928766329,11,6th,Indore,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2025-03-15,2025-06-07,3709,5,56,4,59.6,Champion,8,Free,LKSH6511
+LK0035,Siddharth Dubey,siddharth.dubey32@gmail.com,9422221049,11,6th,Gurugram,Modern School,MERN Stack Basics - Batch 7,2025-03-12,2025-02-25,586,45,94,33,83.5,Beginner,1,Free,LKSI2441
+LK0036,Muskan Chauhan,muskan.chauhan54@gmail.com,9119216889,14,8th,Chennai,The Shri Ram School,MERN Stack Basics - Batch 8,2025-04-14,2025-05-28,1876,46,62,29,69.3,Innovator,7,Pro,LKMU1563
+LK0037,Neha Yadav,neha.yadav47@gmail.com,9827583235,14,7th,Noida,Delhi Public School,MERN Stack Basics - Batch 8,2024-01-24,2025-06-13,3032,79,5,38,38.4,Explorer,4,Free,LKNE2543
+LK0038,Aditya Sharma,aditya.sharma29@gmail.com,9568838262,12,8th,Hyderabad,Ryan International School,MERN Stack Basics - Batch 7,2025-03-29,2025-03-14,2048,3,56,42,89.2,Builder,1,Free,LKAD1778
+LK0039,Krishna Saxena,krishna.saxena57@gmail.com,9859521692,12,6th,Pune,The Shri Ram School,MERN Stack Basics - Batch 8,2024-02-26,2025-02-17,1882,19,41,32,40.7,Builder,2,Free,LKKR9523
+LK0040,Aryan Khanna,aryan.khanna97@gmail.com,9292256572,11,7th,Noida,Modern School,MERN Stack Basics - Batch 8,2024-11-19,2025-06-26,68,21,28,42,53.0,Innovator,4,Basic,LKAR6600
+LK0041,Ananya Nair,ananya.nair57@gmail.com,9996489323,11,6th,Gurugram,St. Xavier's School,MERN Stack Basics - Batch 8,2025-02-02,2025-03-09,502,0,60,10,32.4,Explorer,6,Basic,LKAN1929
+LK0042,Shaurya Iyer,shaurya.iyer74@gmail.com,9696515881,13,8th,Indore,DAV Public School,MERN Stack Basics - Batch 8,2024-03-26,2025-04-17,3865,4,117,30,39.0,Champion,10,Free,LKSH5179
+LK0043,Riya Reddy,riya.reddy66@gmail.com,9962727179,14,8th,Pune,DAV Public School,MERN Stack Basics - Batch 8,2024-12-31,2025-05-16,4797,43,31,49,53.3,Innovator,9,Free,LKRI7259
+LK0044,Pooja Rao,pooja.rao74@gmail.com,9181941384,13,6th,Ahmedabad,Modern School,MERN Stack Basics - Batch 8,2024-02-06,2025-03-26,494,60,61,3,79.0,Champion,6,Free,LKPO7125
+LK0045,Kritika Yadav,kritika.yadav60@gmail.com,9697079668,14,6th,Ahmedabad,Delhi Public School,MERN Stack Basics - Batch 7,2024-10-04,2025-02-04,4689,44,98,40,66.4,Innovator,8,Basic,LKKR9355
+LK0046,Deepa Khanna,deepa.khanna24@gmail.com,9571986136,13,8th,Noida,Delhi Public School,MERN Stack Basics - Batch 6,2025-02-16,2025-06-20,463,9,47,7,99.7,Explorer,6,Free,LKDE5308
+LK0047,Riya Rastogi,riya.rastogi96@gmail.com,9993694529,11,6th,Chandigarh,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2024-09-10,2025-02-10,478,56,94,3,58.3,Explorer,6,Free,LKRI8529
+LK0048,Pranav Sharma,pranav.sharma73@gmail.com,9759150472,12,7th,Gurugram,Modern School,MERN Stack Basics - Batch 6,2024-12-18,2025-04-24,1686,72,108,38,55.6,Builder,6,Free,LKPR7540
+LK0049,Ishita Khanna,ishita.khanna18@gmail.com,9820118960,13,7th,Jaipur,DAV Public School,MERN Stack Basics - Batch 8,2024-07-18,2025-03-15,873,8,102,50,48.6,Beginner,9,Basic,LKIS1951
+LK0050,Arjun Choudhary,arjun.choudhary91@gmail.com,9310199637,13,7th,Kolkata,Springdales School,MERN Stack Basics - Batch 7,2025-05-13,2025-04-14,2041,14,115,26,33.8,Champion,7,Basic,LKAR1362
+LK0051,Bhavna Reddy,bhavna.reddy53@gmail.com,9813632070,14,8th,Chennai,St. Xavier's School,MERN Stack Basics - Batch 7,2024-12-25,2025-01-28,2275,7,83,49,33.6,Builder,4,Basic,LKBH3456
+LK0052,Nikhil Singh,nikhil.singh48@gmail.com,9931157522,11,6th,Jaipur,Delhi Public School,MERN Stack Basics - Batch 8,2025-01-28,2025-05-27,3279,7,30,11,77.8,Beginner,7,Free,LKNI4468
+LK0053,Aryan Shukla,aryan.shukla47@gmail.com,9115817592,11,6th,Indore,Bal Bharati Public School,MERN Stack Basics - Batch 6,2024-07-11,2025-03-06,1353,4,39,20,40.2,Coder,10,Free,LKAR5565
+LK0054,Yash Shukla,yash.shukla27@gmail.com,9860522542,14,7th,Lucknow,Modern School,MERN Stack Basics - Batch 7,2025-02-16,2025-03-30,2814,45,54,24,62.4,Innovator,2,Free,LKYA9291
+LK0055,Sai Mehta,sai.mehta20@gmail.com,9275618065,13,7th,Lucknow,Springdales School,MERN Stack Basics - Batch 7,2025-05-19,2025-05-21,3044,39,40,36,81.8,Innovator,5,Basic,LKSA7321
+LK0056,Dhruv Mehta,dhruv.mehta87@gmail.com,9655790622,12,7th,Ahmedabad,Ryan International School,MERN Stack Basics - Batch 8,2024-03-20,2025-03-24,2810,59,41,22,34.4,Explorer,8,Basic,LKDH2028
+LK0057,Diya Tiwari,diya.tiwari29@gmail.com,9519106308,14,6th,Ahmedabad,Modern School,MERN Stack Basics - Batch 6,2024-01-06,2025-02-04,2283,72,27,6,58.6,Champion,1,Basic,LKDI5673
+LK0058,Aarush Patel,aarush.patel39@gmail.com,9751779474,11,8th,Mumbai,Amity International School,MERN Stack Basics - Batch 7,2024-08-12,2025-01-02,2777,37,9,10,73.0,Champion,8,Basic,LKAA8491
+LK0059,Kritika Patel,kritika.patel57@gmail.com,9232076105,14,8th,Noida,Amity International School,MERN Stack Basics - Batch 6,2024-05-12,2025-04-25,3723,40,114,24,96.4,Coder,5,Free,LKKR9937
+LK0060,Dhruv Choudhary,dhruv.choudhary15@gmail.com,9631796067,14,6th,Hyderabad,St. Xavier's School,MERN Stack Basics - Batch 7,2024-11-03,2025-04-12,3293,63,100,9,39.7,Coder,10,Free,LKDH1248
+LK0061,Aisha Yadav,aisha.yadav38@gmail.com,9744524960,11,8th,Ahmedabad,Modern School,MERN Stack Basics - Batch 7,2024-12-07,2025-04-14,2367,76,42,25,90.0,Champion,1,Free,LKAI9240
+LK0062,Dev Mishra,dev.mishra57@gmail.com,9464574353,14,8th,Hyderabad,Modern School,MERN Stack Basics - Batch 8,2024-02-29,2025-02-26,3619,10,109,40,70.4,Innovator,6,Free,LKDE6750
+LK0063,Karan Kumar,karan.kumar72@gmail.com,9467101932,13,6th,Gurugram,Amity International School,MERN Stack Basics - Batch 7,2024-02-13,2025-02-28,97,32,64,18,66.1,Explorer,2,Basic,LKKA4189
+LK0064,Dev Tiwari,dev.tiwari21@gmail.com,9470605182,12,6th,Chandigarh,Springdales School,MERN Stack Basics - Batch 7,2024-03-19,2025-06-03,1753,53,3,44,67.8,Explorer,5,Free,LKDE3036
+LK0065,Divya Mishra,divya.mishra71@gmail.com,9909432938,14,8th,Indore,Amity International School,MERN Stack Basics - Batch 6,2024-06-11,2025-02-21,4117,10,119,45,74.3,Beginner,6,Free,LKDI6444
+LK0066,Sakshi Rao,sakshi.rao47@gmail.com,9770743115,11,6th,Gurugram,St. Xavier's School,MERN Stack Basics - Batch 8,2024-01-11,2025-05-07,2035,42,50,42,37.4,Champion,10,Pro,LKSA1166
+LK0067,Pallavi Bhatia,pallavi.bhatia23@gmail.com,9416982272,11,8th,Jaipur,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-01-21,2025-06-21,4883,55,83,11,76.8,Innovator,10,Free,LKPA5740
+LK0068,Sakshi Agarwal,sakshi.agarwal48@gmail.com,9302241407,12,7th,Chandigarh,Amity International School,MERN Stack Basics - Batch 8,2024-04-08,2025-05-18,2408,48,118,49,88.5,Builder,1,Basic,LKSA4085
+LK0069,Aarohi Singh,aarohi.singh83@gmail.com,9376979648,11,7th,Indore,Amity International School,MERN Stack Basics - Batch 8,2024-04-21,2025-06-23,4124,59,118,11,79.8,Innovator,5,Free,LKAA2180
+LK0070,Kavya Reddy,kavya.reddy43@gmail.com,9253114967,13,6th,Lucknow,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2024-09-12,2025-03-09,756,48,52,23,81.6,Explorer,3,Free,LKKA8222
+LK0071,Ayaan Reddy,ayaan.reddy93@gmail.com,9121034158,13,6th,Noida,Delhi Public School,MERN Stack Basics - Batch 8,2025-05-17,2025-01-25,255,25,72,49,48.3,Beginner,8,Pro,LKAY6903
+LK0072,Mehak Kapoor,mehak.kapoor72@gmail.com,9732893945,13,8th,Bhopal,St. Xavier's School,MERN Stack Basics - Batch 8,2024-08-14,2025-04-02,4065,54,115,49,61.7,Coder,7,Pro,LKME3971
+LK0073,Diya Gupta,diya.gupta65@gmail.com,9127175742,14,8th,Bangalore,The Shri Ram School,MERN Stack Basics - Batch 7,2024-10-10,2025-02-22,2837,6,27,0,46.1,Builder,1,Basic,LKDI2872
+LK0074,Dhruv Patel,dhruv.patel19@gmail.com,9139515624,11,6th,Mumbai,Bal Bharati Public School,MERN Stack Basics - Batch 6,2025-02-28,2025-01-08,4154,54,18,21,35.7,Beginner,10,Free,LKDH7820
+LK0075,Govind Dubey,govind.dubey80@gmail.com,9889076200,14,6th,Pune,Amity International School,MERN Stack Basics - Batch 8,2024-03-16,2025-01-13,1414,44,54,23,45.4,Explorer,5,Basic,LKGO7095
+LK0076,Tanvi Dubey,tanvi.dubey32@gmail.com,9863901345,13,6th,Chennai,Springdales School,MERN Stack Basics - Batch 6,2024-10-05,2025-03-23,2566,34,84,44,47.0,Innovator,5,Basic,LKTA5836
+LK0077,Rohan Khanna,rohan.khanna64@gmail.com,9683954228,14,7th,Chandigarh,Bal Bharati Public School,MERN Stack Basics - Batch 6,2024-06-03,2025-01-12,217,39,114,9,47.5,Coder,6,Pro,LKRO2473
+LK0078,Harshit Bajaj,harshit.bajaj94@gmail.com,9108768391,12,6th,Delhi,DAV Public School,MERN Stack Basics - Batch 7,2025-05-13,2025-04-14,4326,9,4,47,77.9,Coder,2,Free,LKHA7343
+LK0079,Advait Reddy,advait.reddy96@gmail.com,9818933791,11,8th,Chennai,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-01-31,2025-01-28,1938,76,13,30,64.9,Innovator,6,Basic,LKAD1064
+LK0080,Vikram Patel,vikram.patel80@gmail.com,9419338422,11,6th,Lucknow,Amity International School,MERN Stack Basics - Batch 6,2024-06-26,2025-05-05,552,14,39,18,71.3,Champion,2,Basic,LKVI9831
+LK0081,Simran Choudhary,simran.choudhary35@gmail.com,9901458298,14,8th,Gurugram,Amity International School,MERN Stack Basics - Batch 6,2025-04-25,2025-03-29,2913,11,110,32,78.9,Coder,9,Pro,LKSI3541
+LK0082,Varun Saxena,varun.saxena42@gmail.com,9543499900,12,8th,Jaipur,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2025-01-03,2025-03-01,2220,42,21,20,77.8,Champion,10,Pro,LKVA3955
+LK0083,Kavya Kapoor,kavya.kapoor66@gmail.com,9922422533,14,6th,Ahmedabad,Delhi Public School,MERN Stack Basics - Batch 8,2025-03-31,2025-01-09,1635,9,83,49,94.1,Beginner,4,Free,LKKA4160
+LK0084,Lakshay Rastogi,lakshay.rastogi78@gmail.com,9108164224,14,7th,Hyderabad,Delhi Public School,MERN Stack Basics - Batch 8,2025-05-17,2025-06-27,4759,48,33,38,75.5,Coder,2,Free,LKLA7725
+LK0085,Dhruv Joshi,dhruv.joshi18@gmail.com,9748686351,12,7th,Bangalore,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-10-25,2025-02-05,4318,31,16,34,97.5,Champion,3,Free,LKDH7694
+LK0086,Pooja Srivastava,pooja.srivastava86@gmail.com,9925845066,14,7th,Pune,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-05-12,2025-06-06,2217,63,9,1,66.4,Innovator,9,Free,LKPO5415
+LK0087,Bhavna Mehta,bhavna.mehta99@gmail.com,9525672362,11,8th,Lucknow,Modern School,MERN Stack Basics - Batch 8,2025-04-01,2025-06-27,1598,68,93,10,75.0,Builder,2,Free,LKBH3916
+LK0088,Nisha Joshi,nisha.joshi53@gmail.com,9745279931,12,7th,Ahmedabad,The Shri Ram School,MERN Stack Basics - Batch 6,2025-03-12,2025-05-16,3257,77,12,47,77.5,Champion,5,Free,LKNI2850
+LK0089,Aarush Verma,aarush.verma68@gmail.com,9831050335,14,8th,Chandigarh,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2025-04-11,2025-06-18,1272,34,69,50,70.5,Explorer,3,Free,LKAA4157
+LK0090,Aarush Gupta,aarush.gupta77@gmail.com,9392479026,13,7th,Chennai,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-05-12,2025-05-09,1027,66,52,19,92.3,Builder,9,Free,LKAA4060
+LK0091,Parth Patel,parth.patel82@gmail.com,9739100528,11,8th,Ahmedabad,St. Xavier's School,MERN Stack Basics - Batch 7,2024-06-13,2025-04-02,4214,79,25,38,67.1,Champion,4,Basic,LKPA5664
+LK0092,Advait Singh,advait.singh85@gmail.com,9639519177,12,7th,Bangalore,Delhi Public School,MERN Stack Basics - Batch 7,2024-02-20,2025-02-04,3911,77,55,48,48.4,Coder,7,Pro,LKAD1831
+LK0093,Kiara Rastogi,kiara.rastogi27@gmail.com,9472564079,14,8th,Ahmedabad,St. Xavier's School,MERN Stack Basics - Batch 6,2024-04-20,2025-02-27,368,1,52,43,61.5,Explorer,4,Basic,LKKI8192
+LK0094,Ankita Yadav,ankita.yadav33@gmail.com,9369421250,13,8th,Ahmedabad,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-12-23,2025-04-28,831,9,62,1,36.8,Coder,5,Basic,LKAN5552
+LK0095,Avni Singh,avni.singh40@gmail.com,9613476817,12,8th,Jaipur,The Shri Ram School,MERN Stack Basics - Batch 7,2025-03-31,2025-02-20,896,29,106,42,90.6,Champion,1,Free,LKAV3284
+LK0096,Krishna Shukla,krishna.shukla74@gmail.com,9681518666,13,6th,Kolkata,The Shri Ram School,MERN Stack Basics - Batch 8,2024-09-04,2025-06-14,609,62,25,19,72.9,Innovator,1,Free,LKKR5886
+LK0097,Yash Sharma,yash.sharma65@gmail.com,9300252743,11,7th,Lucknow,Modern School,MERN Stack Basics - Batch 6,2024-09-18,2025-04-01,671,35,39,28,95.2,Beginner,8,Free,LKYA9095
+LK0098,Varun Patel,varun.patel37@gmail.com,9580347387,14,6th,Kolkata,The Shri Ram School,MERN Stack Basics - Batch 8,2024-07-29,2025-06-25,4388,47,105,18,66.8,Beginner,10,Basic,LKVA5153
+LK0099,Sanya Singh,sanya.singh10@gmail.com,9333624445,12,8th,Gurugram,Ryan International School,MERN Stack Basics - Batch 7,2024-07-29,2025-04-09,559,53,90,9,55.5,Beginner,4,Free,LKSA1740
+LK0100,Ritvik Rastogi,ritvik.rastogi84@gmail.com,9329713638,13,8th,Indore,Ryan International School,MERN Stack Basics - Batch 8,2025-02-08,2025-06-16,2772,34,11,19,36.0,Innovator,3,Free,LKRI2776
+LK0101,Muskan Kapoor,muskan.kapoor94@gmail.com,9168602733,14,8th,Noida,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-02-20,2025-05-30,3242,60,20,7,35.8,Explorer,6,Basic,LKMU2342
+LK0102,Vihaan Tiwari,vihaan.tiwari83@gmail.com,9723181867,11,8th,Bhopal,Ryan International School,MERN Stack Basics - Batch 8,2024-06-13,2025-03-07,1120,28,113,47,45.1,Explorer,3,Basic,LKVI5226
+LK0103,Aarohi Malhotra,aarohi.malhotra56@gmail.com,9673342539,13,8th,Mumbai,DAV Public School,MERN Stack Basics - Batch 6,2025-01-20,2025-03-31,2576,52,109,13,67.5,Innovator,1,Free,LKAA9175
+LK0104,Aryan Singh,aryan.singh10@gmail.com,9775834044,11,8th,Bangalore,Amity International School,MERN Stack Basics - Batch 6,2024-04-12,2025-06-10,718,6,73,14,45.1,Explorer,10,Free,LKAR6406
+LK0105,Pranav Srivastava,pranav.srivastava84@gmail.com,9222242602,11,6th,Delhi,DAV Public School,MERN Stack Basics - Batch 8,2024-09-10,2025-01-24,4219,29,7,8,64.5,Explorer,5,Free,LKPR3397
+LK0106,Karan Singh,karan.singh91@gmail.com,9891169256,11,7th,Indore,Ryan International School,MERN Stack Basics - Batch 6,2025-03-10,2025-06-26,4886,42,60,40,57.6,Coder,3,Free,LKKA3277
+LK0107,Pranav Dubey,pranav.dubey28@gmail.com,9132516105,11,8th,Lucknow,Bal Bharati Public School,MERN Stack Basics - Batch 8,2025-03-11,2025-05-21,1046,20,109,26,50.8,Beginner,7,Basic,LKPR2462
+LK0108,Aisha Mishra,aisha.mishra52@gmail.com,9870327047,14,7th,Gurugram,Delhi Public School,MERN Stack Basics - Batch 8,2024-11-09,2025-02-04,210,78,52,31,65.3,Innovator,7,Pro,LKAI5323
+LK0109,Varun Kumar,varun.kumar74@gmail.com,9708482329,13,8th,Chennai,Ryan International School,MERN Stack Basics - Batch 6,2024-03-21,2025-05-06,3574,33,77,2,46.4,Coder,6,Basic,LKVA8134
+LK0110,Simran Sharma,simran.sharma64@gmail.com,9927239705,14,6th,Mumbai,Modern School,MERN Stack Basics - Batch 8,2025-03-31,2025-03-07,992,67,36,29,43.1,Beginner,1,Basic,LKSI6719
+LK0111,Parth Patel,parth.patel70@gmail.com,9546828317,11,7th,Gurugram,St. Xavier's School,MERN Stack Basics - Batch 8,2024-03-25,2025-04-20,2380,71,28,29,98.3,Beginner,10,Pro,LKPA7387
+LK0112,Sneha Bajaj,sneha.bajaj88@gmail.com,9939872719,12,6th,Ahmedabad,The Shri Ram School,MERN Stack Basics - Batch 6,2025-02-24,2025-02-19,3947,51,84,46,86.0,Coder,4,Free,LKSN2399
+LK0113,Muskan Joshi,muskan.joshi35@gmail.com,9878692594,12,7th,Chandigarh,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-04-02,2025-03-04,1826,28,79,45,80.6,Champion,6,Free,LKMU9082
+LK0114,Ruchika Reddy,ruchika.reddy31@gmail.com,9863078364,12,7th,Indore,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-01-05,2025-04-13,4147,41,75,49,93.2,Explorer,10,Pro,LKRU4815
+LK0115,Deepa Agarwal,deepa.agarwal45@gmail.com,9614854302,13,7th,Ahmedabad,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-01-24,2025-04-20,1243,16,108,36,88.6,Coder,6,Free,LKDE1164
+LK0116,Ishita Choudhary,ishita.choudhary94@gmail.com,9935184282,12,8th,Lucknow,St. Xavier's School,MERN Stack Basics - Batch 7,2025-03-12,2025-01-24,3143,55,10,38,49.7,Explorer,3,Pro,LKIS8857
+LK0117,Pranav Joshi,pranav.joshi40@gmail.com,9331500559,14,8th,Gurugram,Springdales School,MERN Stack Basics - Batch 6,2025-05-21,2025-01-30,4342,76,11,9,78.1,Beginner,5,Free,LKPR4279
+LK0118,Kritika Patel,kritika.patel18@gmail.com,9722910450,13,6th,Pune,Modern School,MERN Stack Basics - Batch 7,2024-01-22,2025-05-31,317,48,35,19,50.8,Champion,9,Basic,LKKR2624
+LK0119,Navya Nair,navya.nair10@gmail.com,9954091555,11,8th,Pune,Amity International School,MERN Stack Basics - Batch 7,2024-10-17,2025-05-14,674,68,58,3,76.8,Coder,2,Pro,LKNA6365
+LK0120,Aisha Tiwari,aisha.tiwari70@gmail.com,9926204083,11,6th,Chandigarh,Bal Bharati Public School,MERN Stack Basics - Batch 7,2025-04-25,2025-05-12,1786,3,93,6,97.2,Champion,3,Basic,LKAI1847
+LK0121,Aditya Saxena,aditya.saxena74@gmail.com,9331400596,14,8th,Chandigarh,Modern School,MERN Stack Basics - Batch 8,2025-04-01,2025-03-22,394,56,72,22,32.3,Coder,10,Free,LKAD9343
+LK0122,Parth Agarwal,parth.agarwal48@gmail.com,9354038751,11,6th,Chandigarh,The Shri Ram School,MERN Stack Basics - Batch 8,2025-03-26,2025-06-04,1510,32,65,15,45.6,Champion,9,Free,LKPA1503
+LK0123,Sakshi Dubey,sakshi.dubey26@gmail.com,9303907838,13,6th,Mumbai,The Shri Ram School,MERN Stack Basics - Batch 8,2024-01-29,2025-06-04,2102,57,96,37,48.7,Innovator,2,Free,LKSA8807
+LK0124,Avni Malhotra,avni.malhotra35@gmail.com,9122752397,11,7th,Gurugram,Springdales School,MERN Stack Basics - Batch 7,2024-11-28,2025-05-17,3466,47,81,24,35.8,Beginner,8,Free,LKAV5937
+LK0125,Sneha Iyer,sneha.iyer20@gmail.com,9940933855,12,6th,Noida,The Shri Ram School,MERN Stack Basics - Batch 6,2024-04-22,2025-01-30,1044,51,52,46,63.0,Beginner,7,Free,LKSN3067
+LK0126,Dhruv Malhotra,dhruv.malhotra29@gmail.com,9344967682,12,7th,Indore,Delhi Public School,MERN Stack Basics - Batch 6,2024-05-24,2025-05-18,1557,65,75,7,62.0,Beginner,9,Free,LKDH5642
+LK0127,Dhruv Bhatia,dhruv.bhatia66@gmail.com,9333575668,14,7th,Hyderabad,DAV Public School,MERN Stack Basics - Batch 8,2025-03-10,2025-03-19,1814,34,107,50,99.0,Explorer,10,Free,LKDH4526
+LK0128,Swati Shukla,swati.shukla42@gmail.com,9460386894,14,6th,Chandigarh,Amity International School,MERN Stack Basics - Batch 8,2024-02-26,2025-01-28,1399,20,65,27,78.9,Explorer,8,Free,LKSW3456
+LK0129,Vivaan Srivastava,vivaan.srivastava27@gmail.com,9472119007,14,8th,Bhopal,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2025-05-08,2025-02-11,3402,8,48,9,49.5,Beginner,7,Pro,LKVI2956
+LK0130,Aarohi Kapoor,aarohi.kapoor39@gmail.com,9609276123,12,7th,Gurugram,Modern School,MERN Stack Basics - Batch 6,2024-09-15,2025-06-13,1281,65,113,9,44.1,Innovator,3,Free,LKAA8203
+LK0131,Ritvik Shukla,ritvik.shukla71@gmail.com,9738591626,11,6th,Delhi,Delhi Public School,MERN Stack Basics - Batch 8,2024-05-03,2025-04-29,3975,57,31,34,47.0,Beginner,9,Free,LKRI9591
+LK0132,Mohit Bhatia,mohit.bhatia18@gmail.com,9126612921,14,7th,Chandigarh,Amity International School,MERN Stack Basics - Batch 6,2025-03-25,2025-06-19,4369,38,11,14,63.4,Explorer,10,Pro,LKMO8030
+LK0133,Harshit Mehta,harshit.mehta35@gmail.com,9214744699,14,8th,Ahmedabad,Bal Bharati Public School,MERN Stack Basics - Batch 8,2025-05-03,2025-05-03,1215,9,21,33,74.0,Innovator,9,Free,LKHA7159
+LK0134,Muskan Verma,muskan.verma44@gmail.com,9793941349,14,8th,Bhopal,St. Xavier's School,MERN Stack Basics - Batch 7,2024-02-13,2025-04-09,3648,26,70,49,79.3,Champion,9,Free,LKMU6513
+LK0135,Sneha Bhatia,sneha.bhatia34@gmail.com,9616111100,12,8th,Ahmedabad,St. Xavier's School,MERN Stack Basics - Batch 7,2024-09-18,2025-03-03,1387,16,96,24,79.2,Explorer,10,Free,LKSN7554
+LK0136,Neha Desai,neha.desai29@gmail.com,9158376879,11,8th,Hyderabad,Ryan International School,MERN Stack Basics - Batch 7,2025-05-04,2025-06-23,3102,60,11,13,57.2,Beginner,3,Pro,LKNE1723
+LK0137,Diya Choudhary,diya.choudhary52@gmail.com,9917419489,12,7th,Mumbai,Springdales School,MERN Stack Basics - Batch 7,2024-03-25,2025-04-26,4777,36,75,25,99.2,Champion,7,Basic,LKDI3953
+LK0138,Sneha Nair,sneha.nair89@gmail.com,9645547377,11,6th,Bangalore,St. Xavier's School,MERN Stack Basics - Batch 8,2025-03-15,2025-02-04,1171,30,2,35,36.6,Beginner,9,Basic,LKSN1935
+LK0139,Aman Iyer,aman.iyer66@gmail.com,9769633598,11,6th,Bhopal,Delhi Public School,MERN Stack Basics - Batch 8,2024-03-12,2025-03-30,4638,30,42,4,68.7,Innovator,5,Basic,LKAM9794
+LK0140,Kunal Shukla,kunal.shukla62@gmail.com,9374076978,13,7th,Jaipur,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2024-05-02,2025-02-04,4362,9,48,47,47.5,Champion,9,Free,LKKU5239
+LK0141,Shreya Patel,shreya.patel44@gmail.com,9670339843,12,7th,Delhi,St. Xavier's School,MERN Stack Basics - Batch 7,2024-03-21,2025-03-20,1435,66,58,38,99.3,Champion,4,Basic,LKSH9142
+LK0142,Vikram Kumar,vikram.kumar65@gmail.com,9891010325,12,7th,Jaipur,Springdales School,MERN Stack Basics - Batch 8,2024-10-25,2025-02-27,939,13,33,34,36.3,Builder,2,Basic,LKVI4702
+LK0143,Aarav Choudhary,aarav.choudhary45@gmail.com,9266956173,13,8th,Pune,Amity International School,MERN Stack Basics - Batch 8,2025-01-24,2025-04-06,501,39,91,2,40.6,Innovator,1,Free,LKAA4497
+LK0144,Mohit Mishra,mohit.mishra79@gmail.com,9199349496,13,6th,Delhi,Bal Bharati Public School,MERN Stack Basics - Batch 6,2025-03-03,2025-02-23,1899,46,33,13,60.2,Explorer,9,Free,LKMO2982
+LK0145,Ishaan Singh,ishaan.singh79@gmail.com,9899145614,12,7th,Jaipur,Delhi Public School,MERN Stack Basics - Batch 6,2025-02-09,2025-05-21,1853,76,48,11,94.0,Beginner,6,Free,LKIS4603
+LK0146,Pranav Joshi,pranav.joshi22@gmail.com,9773963947,14,7th,Bangalore,Springdales School,MERN Stack Basics - Batch 6,2025-04-09,2025-04-19,3245,74,80,48,80.1,Innovator,8,Free,LKPR5902
+LK0147,Dev Yadav,dev.yadav51@gmail.com,9320444251,12,8th,Noida,DAV Public School,MERN Stack Basics - Batch 7,2024-03-16,2025-03-03,2683,38,66,47,51.7,Innovator,6,Pro,LKDE6422
+LK0148,Riya Rao,riya.rao31@gmail.com,9715397118,13,7th,Pune,Springdales School,MERN Stack Basics - Batch 7,2025-05-01,2025-06-22,2500,79,113,43,32.0,Builder,8,Free,LKRI6910
+LK0149,Aisha Mishra,aisha.mishra71@gmail.com,9721456744,13,6th,Delhi,Springdales School,MERN Stack Basics - Batch 8,2024-02-17,2025-03-12,3011,10,73,30,84.4,Beginner,10,Basic,LKAI8228
+LK0150,Diya Srivastava,diya.srivastava55@gmail.com,9735773029,14,6th,Jaipur,Bal Bharati Public School,MERN Stack Basics - Batch 6,2024-06-28,2025-04-20,4748,4,103,24,39.7,Innovator,4,Pro,LKDI7432
+LK0151,Aarav Srivastava,aarav.srivastava81@gmail.com,9325909477,14,8th,Pune,DAV Public School,MERN Stack Basics - Batch 6,2024-05-22,2025-03-27,4411,44,107,14,79.5,Beginner,4,Basic,LKAA6097
+LK0152,Kabir Kumar,kabir.kumar13@gmail.com,9652597346,13,7th,Chandigarh,Delhi Public School,MERN Stack Basics - Batch 6,2024-12-05,2025-05-06,1452,20,7,47,56.3,Champion,1,Free,LKKA4226
+LK0153,Mehak Tiwari,mehak.tiwari70@gmail.com,9794012900,14,8th,Chandigarh,DAV Public School,MERN Stack Basics - Batch 8,2024-06-13,2025-04-07,2289,21,9,4,91.7,Explorer,2,Free,LKME1923
+LK0154,Pranav Pandey,pranav.pandey32@gmail.com,9706809905,13,6th,Hyderabad,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-10-24,2025-04-05,4678,4,75,39,40.8,Innovator,2,Basic,LKPR5723
+LK0155,Simran Kumar,simran.kumar38@gmail.com,9927850328,12,7th,Noida,Delhi Public School,MERN Stack Basics - Batch 8,2024-10-29,2025-02-25,1647,24,89,14,60.6,Beginner,10,Basic,LKSI2569
+LK0156,Sakshi Joshi,sakshi.joshi54@gmail.com,9734469007,11,6th,Bangalore,St. Xavier's School,MERN Stack Basics - Batch 6,2024-04-01,2025-01-10,1924,17,34,18,73.5,Coder,7,Basic,LKSA3732
+LK0157,Tanvi Kapoor,tanvi.kapoor30@gmail.com,9420223863,12,8th,Noida,Modern School,MERN Stack Basics - Batch 8,2024-08-09,2025-02-14,4725,1,14,20,63.1,Coder,2,Free,LKTA1757
+LK0158,Arnav Patel,arnav.patel71@gmail.com,9368268918,14,6th,Lucknow,Springdales School,MERN Stack Basics - Batch 6,2024-06-19,2025-06-28,3977,60,29,12,72.9,Builder,6,Free,LKAR5499
+LK0159,Kunal Malhotra,kunal.malhotra75@gmail.com,9173728677,12,8th,Lucknow,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2025-03-17,2025-02-24,1416,6,73,18,49.7,Explorer,4,Pro,LKKU6498
+LK0160,Riya Desai,riya.desai20@gmail.com,9660548101,14,8th,Mumbai,The Shri Ram School,MERN Stack Basics - Batch 8,2024-07-05,2025-06-09,342,27,42,21,52.7,Explorer,6,Basic,LKRI7225
+LK0161,Reyansh Singh,reyansh.singh41@gmail.com,9422856845,11,7th,Lucknow,The Shri Ram School,MERN Stack Basics - Batch 8,2024-10-19,2025-03-25,4133,38,37,37,46.5,Champion,8,Pro,LKRE4948
+LK0162,Riya Pandey,riya.pandey75@gmail.com,9148252536,14,7th,Hyderabad,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-10-26,2025-04-28,3971,68,89,34,64.0,Beginner,3,Free,LKRI3584
+LK0163,Sakshi Dubey,sakshi.dubey31@gmail.com,9619458247,11,7th,Noida,Bal Bharati Public School,MERN Stack Basics - Batch 8,2024-12-02,2025-05-31,4128,48,87,40,98.0,Explorer,10,Basic,LKSA7060
+LK0164,Rahul Nair,rahul.nair20@gmail.com,9208929405,14,6th,Hyderabad,Ryan International School,MERN Stack Basics - Batch 6,2024-08-07,2025-05-10,3192,7,100,16,80.9,Coder,1,Pro,LKRA4305
+LK0165,Aarush Saxena,aarush.saxena48@gmail.com,9872585027,12,6th,Hyderabad,Modern School,MERN Stack Basics - Batch 6,2024-03-30,2025-06-06,4059,58,16,34,48.5,Beginner,7,Free,LKAA8208
+LK0166,Pallavi Chauhan,pallavi.chauhan56@gmail.com,9141520419,13,8th,Bangalore,Delhi Public School,MERN Stack Basics - Batch 7,2024-12-25,2025-06-07,2385,43,6,9,45.3,Coder,6,Free,LKPA5998
+LK0167,Kunal Bhatia,kunal.bhatia93@gmail.com,9629425078,11,6th,Kolkata,Delhi Public School,MERN Stack Basics - Batch 7,2025-05-26,2025-03-20,479,79,58,4,71.4,Innovator,7,Basic,LKKU7783
+LK0168,Muskan Pandey,muskan.pandey84@gmail.com,9409304815,11,7th,Ahmedabad,Springdales School,MERN Stack Basics - Batch 6,2025-02-20,2025-05-04,2820,42,58,44,97.6,Champion,6,Basic,LKMU2688
+LK0169,Muskan Mehta,muskan.mehta34@gmail.com,9108129302,13,6th,Bhopal,Springdales School,MERN Stack Basics - Batch 7,2025-01-01,2025-02-03,2962,4,13,22,99.0,Beginner,6,Basic,LKMU1808
+LK0170,Reyansh Shukla,reyansh.shukla91@gmail.com,9287133751,11,8th,Chandigarh,DAV Public School,MERN Stack Basics - Batch 7,2024-09-03,2025-06-23,3634,75,117,5,92.9,Coder,4,Basic,LKRE3714
+LK0171,Divya Mehta,divya.mehta89@gmail.com,9316282305,14,7th,Chennai,Ryan International School,MERN Stack Basics - Batch 7,2025-03-20,2025-01-26,4860,10,12,15,43.4,Champion,10,Free,LKDI6443
+LK0172,Parth Dubey,parth.dubey22@gmail.com,9301909208,11,8th,Lucknow,Delhi Public School,MERN Stack Basics - Batch 6,2024-05-24,2025-01-30,4354,47,102,40,36.8,Champion,5,Basic,LKPA9171
+LK0173,Ritvik Mishra,ritvik.mishra67@gmail.com,9637233750,13,8th,Bhopal,Modern School,MERN Stack Basics - Batch 8,2024-12-13,2025-03-21,1270,5,33,23,65.6,Champion,3,Basic,LKRI7654
+LK0174,Dev Iyer,dev.iyer82@gmail.com,9831054032,14,6th,Bangalore,St. Xavier's School,MERN Stack Basics - Batch 8,2024-11-06,2025-01-13,4815,27,48,31,93.2,Innovator,6,Basic,LKDE2682
+LK0175,Sanya Srivastava,sanya.srivastava81@gmail.com,9863377922,14,6th,Noida,Delhi Public School,MERN Stack Basics - Batch 8,2024-05-02,2025-06-12,98,15,92,12,86.8,Innovator,5,Free,LKSA7242
+LK0176,Rohan Gupta,rohan.gupta13@gmail.com,9176106795,13,6th,Ahmedabad,Amity International School,MERN Stack Basics - Batch 7,2024-03-04,2025-04-29,1776,75,119,47,83.3,Innovator,3,Basic,LKRO6161
+LK0177,Divya Malhotra,divya.malhotra42@gmail.com,9264981135,14,8th,Hyderabad,Amity International School,MERN Stack Basics - Batch 6,2024-01-13,2025-06-11,3333,45,6,5,39.5,Champion,8,Basic,LKDI8619
+LK0178,Riya Patel,riya.patel16@gmail.com,9160797780,11,8th,Mumbai,Springdales School,MERN Stack Basics - Batch 7,2024-06-16,2025-06-19,3541,38,28,48,65.2,Champion,6,Free,LKRI4478
+LK0179,Ritvik Saxena,ritvik.saxena78@gmail.com,9493079130,12,6th,Jaipur,The Shri Ram School,MERN Stack Basics - Batch 8,2025-01-08,2025-02-04,3100,75,86,44,65.4,Explorer,9,Basic,LKRI1035
+LK0180,Rohan Shukla,rohan.shukla17@gmail.com,9567997081,11,7th,Kolkata,Springdales School,MERN Stack Basics - Batch 8,2025-03-15,2025-04-22,2254,74,95,39,85.3,Explorer,5,Pro,LKRO5212
+LK0181,Aarohi Tiwari,aarohi.tiwari62@gmail.com,9825620149,12,7th,Ahmedabad,Springdales School,MERN Stack Basics - Batch 7,2024-12-23,2025-01-03,4248,76,59,8,53.2,Builder,10,Free,LKAA2776
+LK0182,Lakshay Choudhary,lakshay.choudhary24@gmail.com,9282401771,14,7th,Kolkata,St. Xavier's School,MERN Stack Basics - Batch 8,2024-06-18,2025-05-31,4109,72,117,18,89.8,Builder,7,Free,LKLA4310
+LK0183,Vivaan Mehta,vivaan.mehta37@gmail.com,9305734878,12,6th,Bhopal,St. Xavier's School,MERN Stack Basics - Batch 8,2025-05-25,2025-05-11,4553,76,22,17,53.0,Champion,1,Pro,LKVI9808
+LK0184,Kritika Rao,kritika.rao33@gmail.com,9710635317,13,6th,Bangalore,Springdales School,MERN Stack Basics - Batch 8,2024-05-12,2025-06-20,2998,67,16,25,33.9,Innovator,10,Free,LKKR9140
+LK0185,Lakshay Patel,lakshay.patel87@gmail.com,9985281399,13,6th,Pune,Springdales School,MERN Stack Basics - Batch 8,2024-10-11,2025-01-12,2829,27,0,33,59.7,Builder,1,Free,LKLA8983
+LK0186,Siddharth Desai,siddharth.desai89@gmail.com,9755890873,14,8th,Chennai,Amity International School,MERN Stack Basics - Batch 6,2025-01-26,2025-05-07,2376,71,11,47,83.1,Explorer,3,Free,LKSI3057
+LK0187,Lakshay Patel,lakshay.patel89@gmail.com,9518916974,13,6th,Chandigarh,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2024-12-31,2025-01-10,3260,34,17,19,65.2,Beginner,1,Pro,LKLA6818
+LK0188,Shreya Singh,shreya.singh60@gmail.com,9740694090,13,7th,Pune,Springdales School,MERN Stack Basics - Batch 8,2024-08-20,2025-01-26,3022,49,64,38,84.4,Coder,5,Free,LKSH2094
+LK0189,Advait Desai,advait.desai10@gmail.com,9790229422,11,6th,Kolkata,The Shri Ram School,MERN Stack Basics - Batch 6,2024-02-25,2025-01-27,4298,52,35,1,39.9,Innovator,7,Basic,LKAD2905
+LK0190,Vikram Tiwari,vikram.tiwari17@gmail.com,9545895441,11,7th,Bhopal,Delhi Public School,MERN Stack Basics - Batch 6,2025-02-11,2025-01-27,3972,43,58,45,45.2,Innovator,1,Free,LKVI3663
+LK0191,Arjun Mishra,arjun.mishra97@gmail.com,9729427223,14,7th,Lucknow,St. Xavier's School,MERN Stack Basics - Batch 7,2024-04-27,2025-06-14,4468,11,42,33,97.4,Explorer,3,Free,LKAR1831
+LK0192,Pranav Mehta,pranav.mehta60@gmail.com,9958922077,11,8th,Chennai,Springdales School,MERN Stack Basics - Batch 7,2025-01-30,2025-02-21,786,33,4,39,49.1,Explorer,5,Basic,LKPR1074
+LK0193,Rahul Kapoor,rahul.kapoor31@gmail.com,9722535157,13,8th,Noida,Amity International School,MERN Stack Basics - Batch 6,2024-07-08,2025-06-21,323,70,112,34,71.9,Builder,4,Free,LKRA6812
+LK0194,Kavya Srivastava,kavya.srivastava56@gmail.com,9975098033,14,7th,Indore,Amity International School,MERN Stack Basics - Batch 8,2024-04-08,2025-01-04,2940,5,106,38,85.7,Explorer,10,Free,LKKA7582
+LK0195,Aryan Singh,aryan.singh80@gmail.com,9528593018,14,6th,Kolkata,Amity International School,MERN Stack Basics - Batch 8,2024-06-10,2025-02-18,3455,1,31,48,67.3,Builder,8,Basic,LKAR9077
+LK0196,Sai Chauhan,sai.chauhan58@gmail.com,9914917494,12,8th,Kolkata,Ryan International School,MERN Stack Basics - Batch 7,2024-01-28,2025-05-18,3263,54,38,27,89.1,Coder,5,Free,LKSA7213
+LK0197,Ananya Khanna,ananya.khanna18@gmail.com,9940453141,14,6th,Lucknow,Springdales School,MERN Stack Basics - Batch 8,2024-01-21,2025-04-12,214,61,84,0,65.6,Builder,8,Free,LKAN9489
+LK0198,Vikram Choudhary,vikram.choudhary54@gmail.com,9130096653,14,8th,Bhopal,The Shri Ram School,MERN Stack Basics - Batch 6,2024-02-27,2025-02-16,4283,23,38,10,39.1,Innovator,3,Free,LKVI9349
+LK0199,Kabir Shukla,kabir.shukla89@gmail.com,9924461933,13,8th,Chandigarh,Modern School,MERN Stack Basics - Batch 8,2024-06-12,2025-04-10,4667,71,97,6,42.0,Champion,4,Free,LKKA5447
+LK0200,Aisha Bajaj,aisha.bajaj27@gmail.com,9301057242,13,6th,Noida,Delhi Public School,MERN Stack Basics - Batch 7,2024-10-28,2025-03-09,4118,22,2,8,51.3,Beginner,8,Basic,LKAI1554
+LK0201,Arnav Singh,arnav.singh65@gmail.com,9718731769,14,8th,Bhopal,Bal Bharati Public School,MERN Stack Basics - Batch 8,2024-02-19,2025-01-19,3016,59,30,35,70.8,Builder,1,Basic,LKAR7925
+LK0202,Aarush Rastogi,aarush.rastogi47@gmail.com,9287496770,13,6th,Bangalore,St. Xavier's School,MERN Stack Basics - Batch 6,2024-11-01,2025-04-05,4817,79,10,12,70.6,Explorer,1,Basic,LKAA9708
+LK0203,Diya Iyer,diya.iyer74@gmail.com,9346956645,14,7th,Gurugram,Ryan International School,MERN Stack Basics - Batch 6,2025-04-18,2025-06-03,4331,59,57,37,49.9,Coder,9,Free,LKDI7840
+LK0204,Kabir Reddy,kabir.reddy48@gmail.com,9650536772,14,7th,Chennai,DAV Public School,MERN Stack Basics - Batch 8,2024-05-29,2025-04-22,1487,70,29,49,73.2,Coder,2,Free,LKKA4579
+LK0205,Darsh Sharma,darsh.sharma33@gmail.com,9271580675,12,7th,Chandigarh,Amity International School,MERN Stack Basics - Batch 7,2024-04-10,2025-05-03,930,68,114,45,54.3,Builder,6,Basic,LKDA6533
+LK0206,Reyansh Rastogi,reyansh.rastogi93@gmail.com,9999794808,12,7th,Hyderabad,Springdales School,MERN Stack Basics - Batch 6,2024-11-15,2025-01-25,1440,67,6,42,89.5,Champion,7,Free,LKRE9034
+LK0207,Divya Kumar,divya.kumar16@gmail.com,9854858064,13,7th,Hyderabad,Ryan International School,MERN Stack Basics - Batch 8,2025-04-25,2025-05-11,3549,37,42,37,66.6,Builder,3,Free,LKDI7136
+LK0208,Kiara Sharma,kiara.sharma36@gmail.com,9984493732,13,6th,Bhopal,Springdales School,MERN Stack Basics - Batch 6,2024-03-13,2025-01-22,138,15,0,26,48.5,Explorer,5,Free,LKKI2758
+LK0209,Ananya Pandey,ananya.pandey27@gmail.com,9167846126,11,8th,Pune,DAV Public School,MERN Stack Basics - Batch 7,2024-08-20,2025-02-20,3113,51,82,50,47.5,Champion,10,Basic,LKAN3225
+LK0210,Priya Pandey,priya.pandey67@gmail.com,9644533953,14,7th,Mumbai,Springdales School,MERN Stack Basics - Batch 8,2025-05-06,2025-03-19,1640,30,4,42,73.7,Beginner,8,Basic,LKPR4794
+LK0211,Diya Patel,diya.patel19@gmail.com,9529890436,11,6th,Bhopal,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2025-03-26,2025-01-26,3755,48,17,11,98.8,Beginner,8,Free,LKDI9277
+LK0212,Vihaan Saxena,vihaan.saxena14@gmail.com,9966568490,11,7th,Chandigarh,St. Xavier's School,MERN Stack Basics - Batch 7,2025-05-16,2025-04-23,2712,54,82,19,49.2,Coder,6,Basic,LKVI2510
+LK0213,Kunal Malhotra,kunal.malhotra82@gmail.com,9810687534,14,7th,Jaipur,The Shri Ram School,MERN Stack Basics - Batch 6,2024-03-07,2025-01-16,2783,48,91,46,34.5,Coder,9,Basic,LKKU9050
+LK0214,Pallavi Malhotra,pallavi.malhotra11@gmail.com,9628472860,13,7th,Jaipur,Springdales School,MERN Stack Basics - Batch 8,2025-01-13,2025-01-05,1151,38,19,29,78.7,Beginner,2,Free,LKPA4487
+LK0215,Nisha Bajaj,nisha.bajaj71@gmail.com,9757193510,11,8th,Pune,St. Xavier's School,MERN Stack Basics - Batch 6,2024-08-26,2025-05-04,4139,45,2,1,38.1,Explorer,1,Basic,LKNI4815
+LK0216,Darsh Joshi,darsh.joshi50@gmail.com,9551964720,11,8th,Pune,The Shri Ram School,MERN Stack Basics - Batch 6,2025-04-17,2025-05-04,3079,64,25,48,91.5,Beginner,9,Free,LKDA3500
+LK0217,Sai Rao,sai.rao89@gmail.com,9979801334,12,8th,Noida,St. Xavier's School,MERN Stack Basics - Batch 7,2025-01-20,2025-02-11,3870,38,18,37,42.3,Beginner,8,Free,LKSA6728
+LK0218,Atharv Shukla,atharv.shukla76@gmail.com,9147899618,14,7th,Kolkata,Ryan International School,MERN Stack Basics - Batch 8,2024-07-26,2025-03-17,2796,61,42,4,72.1,Beginner,6,Free,LKAT6046
+LK0219,Dhruv Choudhary,dhruv.choudhary94@gmail.com,9360231190,11,8th,Hyderabad,Ryan International School,MERN Stack Basics - Batch 7,2025-03-11,2025-06-08,2239,69,37,23,67.1,Champion,6,Basic,LKDH9996
+LK0220,Mohit Desai,mohit.desai31@gmail.com,9192311624,12,6th,Mumbai,Springdales School,MERN Stack Basics - Batch 8,2024-08-01,2025-04-19,4684,17,23,5,55.6,Innovator,4,Basic,LKMO6433
+LK0221,Nisha Dubey,nisha.dubey27@gmail.com,9290864571,11,6th,Chennai,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-07-25,2025-04-27,4661,53,99,37,53.2,Coder,10,Free,LKNI4415
+LK0222,Ishaan Tiwari,ishaan.tiwari73@gmail.com,9829746457,14,6th,Chandigarh,DAV Public School,MERN Stack Basics - Batch 6,2024-07-28,2025-02-04,602,27,51,8,78.8,Beginner,3,Free,LKIS6434
+LK0223,Kavya Mishra,kavya.mishra35@gmail.com,9294897094,11,7th,Mumbai,Amity International School,MERN Stack Basics - Batch 6,2024-04-19,2025-05-10,3220,62,103,49,92.7,Champion,9,Free,LKKA8263
+LK0224,Vedant Choudhary,vedant.choudhary91@gmail.com,9581395588,14,7th,Lucknow,Springdales School,MERN Stack Basics - Batch 6,2024-08-27,2025-01-18,56,32,105,7,36.6,Innovator,9,Free,LKVE7790
+LK0225,Navya Tiwari,navya.tiwari89@gmail.com,9410787730,12,8th,Bhopal,DAV Public School,MERN Stack Basics - Batch 6,2025-04-07,2025-05-13,2757,12,1,16,53.4,Builder,8,Free,LKNA7171
+LK0226,Pooja Joshi,pooja.joshi38@gmail.com,9358442244,12,8th,Hyderabad,Delhi Public School,MERN Stack Basics - Batch 7,2024-12-21,2025-05-01,664,53,117,49,77.4,Explorer,10,Free,LKPO2035
+LK0227,Rajan Bhatia,rajan.bhatia19@gmail.com,9224812245,13,8th,Kolkata,Bal Bharati Public School,MERN Stack Basics - Batch 8,2025-01-22,2025-01-15,3771,18,97,9,68.7,Champion,1,Pro,LKRA3448
+LK0228,Arnav Gupta,arnav.gupta27@gmail.com,9538794550,13,6th,Mumbai,Ryan International School,MERN Stack Basics - Batch 6,2025-05-07,2025-05-25,3996,73,62,40,59.6,Explorer,2,Basic,LKAR9734
+LK0229,Vivaan Pandey,vivaan.pandey25@gmail.com,9818458614,13,8th,Ahmedabad,Ryan International School,MERN Stack Basics - Batch 8,2024-01-18,2025-02-05,3227,25,107,16,92.1,Explorer,7,Basic,LKVI5953
+LK0230,Simran Singh,simran.singh40@gmail.com,9320494031,14,7th,Kolkata,Ryan International School,MERN Stack Basics - Batch 6,2024-08-25,2025-05-23,2148,73,119,18,97.1,Beginner,7,Free,LKSI9542
+LK0231,Vihaan Kumar,vihaan.kumar81@gmail.com,9239003456,11,8th,Noida,Delhi Public School,MERN Stack Basics - Batch 6,2024-01-03,2025-06-23,4479,39,18,2,78.9,Builder,1,Basic,LKVI8522
+LK0232,Diya Reddy,diya.reddy67@gmail.com,9700322351,11,8th,Indore,Delhi Public School,MERN Stack Basics - Batch 7,2024-10-06,2025-02-21,29,50,35,7,90.2,Champion,10,Basic,LKDI9632
+LK0233,Kabir Gupta,kabir.gupta96@gmail.com,9363518785,12,7th,Noida,St. Xavier's School,MERN Stack Basics - Batch 7,2024-01-17,2025-05-31,1176,16,91,40,70.1,Innovator,5,Free,LKKA4300
+LK0234,Parth Rastogi,parth.rastogi69@gmail.com,9826116510,11,6th,Jaipur,Ryan International School,MERN Stack Basics - Batch 8,2025-04-04,2025-05-28,2016,24,70,19,47.0,Coder,9,Basic,LKPA3867
+LK0235,Kritika Malhotra,kritika.malhotra44@gmail.com,9326258500,12,7th,Hyderabad,St. Xavier's School,MERN Stack Basics - Batch 7,2025-01-07,2025-03-03,1299,76,94,47,30.6,Coder,6,Free,LKKR3928
+LK0236,Reyansh Dubey,reyansh.dubey92@gmail.com,9238606972,14,7th,Indore,DAV Public School,MERN Stack Basics - Batch 7,2024-05-25,2025-06-12,1636,57,15,24,53.8,Beginner,2,Free,LKRE7465
+LK0237,Dhruv Saxena,dhruv.saxena75@gmail.com,9223045492,12,7th,Gurugram,Springdales School,MERN Stack Basics - Batch 6,2025-02-27,2025-04-03,1326,62,19,3,91.4,Innovator,3,Pro,LKDH7956
+LK0238,Aryan Srivastava,aryan.srivastava91@gmail.com,9734827461,14,8th,Pune,Delhi Public School,MERN Stack Basics - Batch 6,2024-04-04,2025-01-24,3660,62,48,28,32.8,Coder,9,Free,LKAR2780
+LK0239,Arjun Saxena,arjun.saxena40@gmail.com,9731027333,12,6th,Mumbai,Bal Bharati Public School,MERN Stack Basics - Batch 7,2025-05-17,2025-06-02,4540,39,63,44,68.4,Explorer,3,Pro,LKAR9430
+LK0240,Yash Choudhary,yash.choudhary28@gmail.com,9679583388,14,6th,Delhi,The Shri Ram School,MERN Stack Basics - Batch 8,2024-05-18,2025-03-19,2127,39,78,9,89.6,Champion,1,Free,LKYA8265
+LK0241,Sai Patel,sai.patel66@gmail.com,9356567812,14,6th,Hyderabad,DAV Public School,MERN Stack Basics - Batch 8,2024-01-24,2025-02-19,2654,53,50,22,48.3,Coder,3,Free,LKSA7249
+LK0242,Priya Joshi,priya.joshi78@gmail.com,9388054024,11,6th,Chandigarh,Springdales School,MERN Stack Basics - Batch 6,2024-11-04,2025-04-21,2850,14,68,13,82.0,Builder,1,Basic,LKPR8766
+LK0243,Ruchika Sharma,ruchika.sharma79@gmail.com,9764257418,12,7th,Noida,Amity International School,MERN Stack Basics - Batch 7,2024-01-06,2025-03-15,3956,57,60,24,36.1,Coder,10,Free,LKRU4586
+LK0244,Neha Khanna,neha.khanna68@gmail.com,9837882521,11,7th,Mumbai,Modern School,MERN Stack Basics - Batch 7,2024-07-16,2025-05-08,1137,9,67,1,44.7,Innovator,10,Basic,LKNE8965
+LK0245,Ishaan Agarwal,ishaan.agarwal27@gmail.com,9286795283,13,8th,Kolkata,DAV Public School,MERN Stack Basics - Batch 8,2025-05-01,2025-03-26,2531,49,68,14,71.5,Innovator,10,Free,LKIS9387
+LK0246,Karan Joshi,karan.joshi41@gmail.com,9413272032,12,7th,Bangalore,Bal Bharati Public School,MERN Stack Basics - Batch 8,2024-02-25,2025-03-11,1409,21,52,11,38.1,Champion,10,Free,LKKA7202
+LK0247,Ishaan Sharma,ishaan.sharma68@gmail.com,9843623401,13,7th,Gurugram,Delhi Public School,MERN Stack Basics - Batch 6,2025-04-16,2025-03-02,703,43,7,26,58.4,Beginner,8,Basic,LKIS2225
+LK0248,Aisha Saxena,aisha.saxena63@gmail.com,9877436500,13,8th,Bhopal,Delhi Public School,MERN Stack Basics - Batch 8,2024-09-08,2025-05-11,4327,69,97,24,51.1,Innovator,1,Basic,LKAI2545
+LK0249,Aarush Tiwari,aarush.tiwari83@gmail.com,9783469821,14,6th,Bhopal,DAV Public School,MERN Stack Basics - Batch 7,2024-02-19,2025-05-27,3442,33,92,23,60.7,Builder,9,Basic,LKAA5370
+LK0250,Ankita Bajaj,ankita.bajaj84@gmail.com,9832700191,11,8th,Jaipur,Springdales School,MERN Stack Basics - Batch 8,2025-04-22,2025-05-08,2905,10,2,32,40.3,Innovator,2,Basic,LKAN8817
+LK0251,Simran Chauhan,simran.chauhan45@gmail.com,9127377582,11,6th,Chandigarh,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-08-04,2025-04-30,3455,74,110,1,77.9,Beginner,7,Free,LKSI6499
+LK0252,Karan Verma,karan.verma82@gmail.com,9293461188,13,7th,Hyderabad,St. Xavier's School,MERN Stack Basics - Batch 7,2025-04-29,2025-01-12,2536,19,53,38,49.4,Innovator,8,Free,LKKA8088
+LK0253,Diya Agarwal,diya.agarwal93@gmail.com,9572302605,11,7th,Jaipur,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-01-05,2025-03-16,174,76,63,17,42.9,Coder,7,Free,LKDI7406
+LK0254,Advait Shukla,advait.shukla86@gmail.com,9370468025,13,8th,Pune,Modern School,MERN Stack Basics - Batch 6,2024-07-02,2025-04-16,367,58,60,46,77.2,Innovator,10,Free,LKAD2930
+LK0255,Divya Yadav,divya.yadav47@gmail.com,9482988519,12,7th,Ahmedabad,Delhi Public School,MERN Stack Basics - Batch 6,2024-06-14,2025-06-15,1075,19,51,19,52.6,Explorer,4,Basic,LKDI8110
+LK0256,Vivaan Mehta,vivaan.mehta23@gmail.com,9682106661,13,8th,Mumbai,Delhi Public School,MERN Stack Basics - Batch 7,2024-08-18,2025-05-29,3751,5,67,14,79.9,Innovator,2,Basic,LKVI4038
+LK0257,Swati Kumar,swati.kumar85@gmail.com,9925628207,13,8th,Lucknow,Springdales School,MERN Stack Basics - Batch 8,2024-10-24,2025-03-30,2454,42,41,50,53.7,Explorer,8,Basic,LKSW1565
+LK0258,Varun Saxena,varun.saxena53@gmail.com,9455904409,13,6th,Pune,Delhi Public School,MERN Stack Basics - Batch 7,2024-06-28,2025-02-19,3575,60,71,8,92.9,Builder,4,Basic,LKVA7273
+LK0259,Aman Kapoor,aman.kapoor50@gmail.com,9196165744,12,8th,Bhopal,St. Xavier's School,MERN Stack Basics - Batch 8,2024-04-06,2025-04-27,4747,17,28,16,54.8,Coder,4,Pro,LKAM2944
+LK0260,Shreya Choudhary,shreya.choudhary32@gmail.com,9151676559,13,8th,Jaipur,The Shri Ram School,MERN Stack Basics - Batch 7,2025-02-25,2025-03-27,3473,30,54,37,43.2,Explorer,8,Pro,LKSH7855
+LK0261,Aditya Bajaj,aditya.bajaj45@gmail.com,9539678259,13,8th,Lucknow,DAV Public School,MERN Stack Basics - Batch 8,2024-08-31,2025-03-22,2718,58,11,38,65.4,Builder,2,Free,LKAD6729
+LK0262,Muskan Sharma,muskan.sharma80@gmail.com,9124952739,14,6th,Ahmedabad,Amity International School,MERN Stack Basics - Batch 7,2024-09-27,2025-04-21,4782,72,89,27,38.8,Coder,6,Basic,LKMU9951
+LK0263,Karan Gupta,karan.gupta38@gmail.com,9925274652,14,8th,Lucknow,Amity International School,MERN Stack Basics - Batch 7,2024-01-31,2025-04-21,4250,5,71,11,44.1,Coder,6,Free,LKKA1970
+LK0264,Priya Srivastava,priya.srivastava15@gmail.com,9604534823,14,6th,Bhopal,DAV Public School,MERN Stack Basics - Batch 6,2024-10-01,2025-03-03,1118,1,21,17,99.7,Builder,5,Free,LKPR1435
+LK0265,Shreya Tiwari,shreya.tiwari56@gmail.com,9155866240,12,8th,Chandigarh,Amity International School,MERN Stack Basics - Batch 8,2024-01-19,2025-05-14,1817,9,20,38,73.4,Beginner,8,Free,LKSH9950
+LK0266,Pranav Chauhan,pranav.chauhan55@gmail.com,9663289354,14,6th,Lucknow,Ryan International School,MERN Stack Basics - Batch 6,2024-06-04,2025-04-10,4057,73,44,38,75.7,Explorer,7,Pro,LKPR6255
+LK0267,Ananya Dubey,ananya.dubey62@gmail.com,9897975117,12,6th,Delhi,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2025-02-13,2025-02-23,3985,19,7,0,30.6,Explorer,8,Free,LKAN1424
+LK0268,Pooja Gupta,pooja.gupta22@gmail.com,9308784139,11,7th,Pune,Modern School,MERN Stack Basics - Batch 7,2024-05-17,2025-05-23,1027,9,51,15,32.7,Innovator,8,Pro,LKPO2524
+LK0269,Vedant Joshi,vedant.joshi24@gmail.com,9301237377,14,6th,Jaipur,Modern School,MERN Stack Basics - Batch 8,2024-11-05,2025-03-15,2177,36,11,32,78.2,Champion,6,Free,LKVE6301
+LK0270,Diya Srivastava,diya.srivastava28@gmail.com,9775154523,13,8th,Bangalore,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2024-10-23,2025-05-19,3174,42,46,12,93.7,Builder,5,Basic,LKDI5064
+LK0271,Sanya Verma,sanya.verma35@gmail.com,9664314580,13,6th,Lucknow,St. Xavier's School,MERN Stack Basics - Batch 6,2025-05-23,2025-02-13,3840,37,99,9,80.8,Builder,9,Basic,LKSA6708
+LK0272,Deepa Iyer,deepa.iyer36@gmail.com,9287133561,14,6th,Jaipur,DAV Public School,MERN Stack Basics - Batch 7,2025-03-15,2025-02-21,4465,60,90,27,90.9,Beginner,6,Pro,LKDE3638
+LK0273,Ananya Singh,ananya.singh14@gmail.com,9896599980,13,7th,Noida,DAV Public School,MERN Stack Basics - Batch 6,2024-12-27,2025-06-08,1178,62,9,40,93.0,Builder,8,Pro,LKAN9144
+LK0274,Aman Joshi,aman.joshi49@gmail.com,9153640853,11,6th,Bhopal,St. Xavier's School,MERN Stack Basics - Batch 7,2024-09-16,2025-06-13,4520,28,12,8,46.3,Coder,3,Pro,LKAM5722
+LK0275,Rohan Rao,rohan.rao87@gmail.com,9832583003,12,7th,Lucknow,Delhi Public School,MERN Stack Basics - Batch 6,2024-09-09,2025-04-19,1345,14,74,26,62.8,Beginner,8,Free,LKRO3832
+LK0276,Aman Kumar,aman.kumar65@gmail.com,9410632996,11,7th,Bhopal,Bal Bharati Public School,MERN Stack Basics - Batch 6,2024-07-28,2025-03-12,2679,0,2,10,81.8,Beginner,7,Free,LKAM1718
+LK0277,Aman Shukla,aman.shukla33@gmail.com,9315382693,14,7th,Chennai,Springdales School,MERN Stack Basics - Batch 7,2025-01-26,2025-01-20,833,10,87,13,97.2,Coder,3,Basic,LKAM2778
+LK0278,Aarush Gupta,aarush.gupta43@gmail.com,9648890895,14,6th,Chennai,St. Xavier's School,MERN Stack Basics - Batch 7,2025-04-30,2025-02-27,415,9,21,29,97.0,Innovator,5,Free,LKAA2509
+LK0279,Aarav Srivastava,aarav.srivastava80@gmail.com,9858593177,12,8th,Jaipur,Delhi Public School,MERN Stack Basics - Batch 7,2025-05-26,2025-02-03,319,28,32,12,58.6,Coder,1,Pro,LKAA2340
+LK0280,Ananya Yadav,ananya.yadav97@gmail.com,9911446555,12,6th,Indore,St. Xavier's School,MERN Stack Basics - Batch 7,2024-06-12,2025-01-28,2756,18,57,47,52.5,Coder,2,Free,LKAN4836
+LK0281,Nikhil Bhatia,nikhil.bhatia36@gmail.com,9451972401,14,6th,Mumbai,Ryan International School,MERN Stack Basics - Batch 7,2025-01-24,2025-01-07,2626,12,48,43,75.4,Innovator,1,Free,LKNI2981
+LK0282,Ananya Chauhan,ananya.chauhan66@gmail.com,9668796594,13,6th,Gurugram,Ryan International School,MERN Stack Basics - Batch 6,2024-04-22,2025-05-31,1944,32,111,5,93.3,Champion,8,Free,LKAN9337
+LK0283,Kritika Patel,kritika.patel30@gmail.com,9755003419,14,6th,Kolkata,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-07-05,2025-06-24,905,47,23,4,87.4,Explorer,8,Free,LKKR4840
+LK0284,Aman Nair,aman.nair22@gmail.com,9107296422,14,6th,Mumbai,Delhi Public School,MERN Stack Basics - Batch 7,2024-08-02,2025-05-09,4029,65,111,26,85.4,Coder,7,Basic,LKAM1427
+LK0285,Ananya Rastogi,ananya.rastogi76@gmail.com,9203164829,11,8th,Bhopal,Amity International School,MERN Stack Basics - Batch 7,2024-11-09,2025-03-26,3291,69,32,44,69.0,Innovator,9,Pro,LKAN4367
+LK0286,Darsh Saxena,darsh.saxena11@gmail.com,9129591764,13,7th,Delhi,Springdales School,MERN Stack Basics - Batch 8,2025-02-18,2025-03-05,4204,58,8,8,50.8,Coder,6,Free,LKDA9980
+LK0287,Sneha Bajaj,sneha.bajaj68@gmail.com,9515608517,13,6th,Pune,St. Xavier's School,MERN Stack Basics - Batch 7,2024-06-24,2025-06-21,1723,32,89,44,98.2,Explorer,10,Free,LKSN7133
+LK0288,Kritika Kapoor,kritika.kapoor33@gmail.com,9671959684,14,8th,Hyderabad,Ryan International School,MERN Stack Basics - Batch 8,2024-12-05,2025-04-15,1363,59,109,16,95.4,Champion,7,Basic,LKKR7858
+LK0289,Pooja Desai,pooja.desai84@gmail.com,9457135597,12,7th,Gurugram,Amity International School,MERN Stack Basics - Batch 6,2024-06-28,2025-03-25,2880,70,24,45,77.0,Champion,4,Pro,LKPO3469
+LK0290,Shaurya Mehta,shaurya.mehta16@gmail.com,9640059408,12,7th,Bangalore,Delhi Public School,MERN Stack Basics - Batch 8,2024-03-04,2025-01-25,4203,69,49,19,54.7,Builder,6,Free,LKSH4532
+LK0291,Ananya Saxena,ananya.saxena43@gmail.com,9207920493,12,7th,Indore,Springdales School,MERN Stack Basics - Batch 6,2025-04-09,2025-03-26,4487,38,10,6,71.3,Beginner,9,Pro,LKAN8583
+LK0292,Neha Saxena,neha.saxena21@gmail.com,9216369123,13,6th,Chandigarh,DAV Public School,MERN Stack Basics - Batch 6,2024-11-03,2025-04-08,4024,62,97,34,95.4,Explorer,8,Free,LKNE3900
+LK0293,Diya Rastogi,diya.rastogi87@gmail.com,9535781245,13,6th,Mumbai,Springdales School,MERN Stack Basics - Batch 8,2024-06-24,2025-01-02,836,26,97,19,68.0,Explorer,8,Basic,LKDI4130
+LK0294,Tanvi Desai,tanvi.desai73@gmail.com,9517529990,13,8th,Mumbai,St. Xavier's School,MERN Stack Basics - Batch 7,2024-02-10,2025-02-17,4955,53,6,40,80.5,Explorer,6,Basic,LKTA3131
+LK0295,Advik Saxena,advik.saxena69@gmail.com,9238926345,11,8th,Pune,Modern School,MERN Stack Basics - Batch 7,2025-03-12,2025-06-01,4979,71,110,48,84.4,Innovator,10,Basic,LKAD2466
+LK0296,Simran Desai,simran.desai45@gmail.com,9144626973,11,6th,Ahmedabad,Modern School,MERN Stack Basics - Batch 6,2024-08-14,2025-02-15,219,25,29,26,57.5,Beginner,5,Basic,LKSI8586
+LK0297,Advik Srivastava,advik.srivastava65@gmail.com,9910603068,14,7th,Pune,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2024-10-23,2025-06-22,2174,56,22,1,94.5,Innovator,3,Pro,LKAD7124
+LK0298,Priya Saxena,priya.saxena81@gmail.com,9169545024,12,8th,Hyderabad,St. Xavier's School,MERN Stack Basics - Batch 8,2024-12-25,2025-03-19,2587,38,10,13,50.6,Explorer,10,Free,LKPR1687
+LK0299,Kabir Bhatia,kabir.bhatia59@gmail.com,9848095989,12,7th,Gurugram,St. Xavier's School,MERN Stack Basics - Batch 8,2024-10-12,2025-06-16,4121,41,119,21,74.0,Innovator,7,Free,LKKA4749
+LK0300,Navya Desai,navya.desai41@gmail.com,9700060350,14,6th,Chennai,Springdales School,MERN Stack Basics - Batch 7,2024-10-30,2025-04-22,1561,41,53,26,97.5,Explorer,7,Basic,LKNA4865
+LK0301,Govind Srivastava,govind.srivastava83@gmail.com,9546624153,14,7th,Pune,Kendriya Vidyalaya,MERN Stack Basics - Batch 8,2024-12-31,2025-01-15,1273,48,13,34,69.9,Beginner,8,Free,LKGO3283
+LK0302,Kabir Srivastava,kabir.srivastava54@gmail.com,9990363665,12,7th,Gurugram,Amity International School,MERN Stack Basics - Batch 8,2024-11-18,2025-04-06,887,0,0,9,53.5,Innovator,6,Pro,LKKA9221
+LK0303,Govind Khanna,govind.khanna53@gmail.com,9709665820,11,8th,Chandigarh,St. Xavier's School,MERN Stack Basics - Batch 8,2025-04-24,2025-01-04,4896,18,48,30,51.0,Coder,8,Basic,LKGO5463
+LK0304,Priya Singh,priya.singh16@gmail.com,9789146033,12,6th,Bangalore,Delhi Public School,MERN Stack Basics - Batch 6,2024-07-21,2025-02-17,2785,1,95,38,75.4,Builder,7,Pro,LKPR4266
+LK0305,Mehak Choudhary,mehak.choudhary28@gmail.com,9190769533,11,8th,Chennai,St. Xavier's School,MERN Stack Basics - Batch 7,2024-08-16,2025-04-27,4904,28,14,14,48.9,Champion,3,Basic,LKME8802
+LK0306,Kunal Patel,kunal.patel41@gmail.com,9581281684,13,7th,Chandigarh,Amity International School,MERN Stack Basics - Batch 8,2024-12-16,2025-05-07,1367,8,86,32,66.8,Explorer,6,Basic,LKKU9468
+LK0307,Arjun Rastogi,arjun.rastogi24@gmail.com,9445866343,13,8th,Indore,Ryan International School,MERN Stack Basics - Batch 6,2025-02-05,2025-01-23,3646,10,77,19,55.2,Explorer,4,Pro,LKAR8259
+LK0308,Lakshay Choudhary,lakshay.choudhary41@gmail.com,9732687187,11,7th,Pune,The Shri Ram School,MERN Stack Basics - Batch 8,2024-03-14,2025-03-16,2124,53,57,0,87.1,Beginner,5,Basic,LKLA8313
+LK0309,Mehak Mehta,mehak.mehta64@gmail.com,9906660187,12,6th,Kolkata,The Shri Ram School,MERN Stack Basics - Batch 6,2024-01-19,2025-02-03,4679,5,120,1,96.5,Builder,2,Free,LKME3085
+LK0310,Ishita Chauhan,ishita.chauhan32@gmail.com,9271142178,11,6th,Mumbai,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-04-04,2025-01-15,4869,49,15,20,91.5,Innovator,2,Basic,LKIS6215
+LK0311,Shreya Bajaj,shreya.bajaj20@gmail.com,9949351804,12,7th,Gurugram,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2025-05-01,2025-02-28,4697,26,89,3,62.1,Beginner,6,Pro,LKSH4799
+LK0312,Reyansh Shukla,reyansh.shukla22@gmail.com,9875471385,12,6th,Delhi,DAV Public School,MERN Stack Basics - Batch 6,2025-04-26,2025-02-15,4612,21,14,23,41.8,Champion,8,Pro,LKRE2740
+LK0313,Kabir Malhotra,kabir.malhotra34@gmail.com,9736463890,11,6th,Noida,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-07-02,2025-03-29,831,35,80,12,34.3,Champion,7,Pro,LKKA5557
+LK0314,Yash Patel,yash.patel91@gmail.com,9178317061,14,8th,Indore,Delhi Public School,MERN Stack Basics - Batch 8,2024-09-19,2025-03-27,1642,68,29,35,57.3,Builder,3,Free,LKYA2307
+LK0315,Sanya Bajaj,sanya.bajaj80@gmail.com,9203984221,11,6th,Hyderabad,DAV Public School,MERN Stack Basics - Batch 6,2024-02-22,2025-02-06,1941,44,39,22,44.3,Beginner,1,Free,LKSA1587
+LK0316,Dev Kapoor,dev.kapoor41@gmail.com,9257955507,14,8th,Mumbai,St. Xavier's School,MERN Stack Basics - Batch 7,2024-03-22,2025-02-21,272,54,88,9,83.9,Beginner,7,Basic,LKDE2525
+LK0317,Ruchika Choudhary,ruchika.choudhary90@gmail.com,9189646574,13,8th,Ahmedabad,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2025-04-14,2025-03-18,4419,27,104,46,91.1,Explorer,7,Free,LKRU3159
+LK0318,Atharv Joshi,atharv.joshi57@gmail.com,9317932274,14,6th,Noida,DAV Public School,MERN Stack Basics - Batch 6,2024-06-10,2025-03-30,2198,64,42,8,77.0,Explorer,10,Free,LKAT6261
+LK0319,Swati Dubey,swati.dubey28@gmail.com,9542239648,13,8th,Hyderabad,Kendriya Vidyalaya,MERN Stack Basics - Batch 6,2024-08-13,2025-06-01,1395,23,25,29,42.7,Beginner,10,Basic,LKSW5079
+LK0320,Parth Singh,parth.singh15@gmail.com,9883290445,14,6th,Indore,Ryan International School,MERN Stack Basics - Batch 8,2024-11-14,2025-01-09,3268,7,16,9,96.4,Beginner,6,Free,LKPA4818
+LK0321,Arnav Malhotra,arnav.malhotra77@gmail.com,9870012399,14,8th,Lucknow,DAV Public School,MERN Stack Basics - Batch 6,2024-05-27,2025-01-13,1712,54,44,17,60.2,Beginner,2,Basic,LKAR1032
+LK0322,Advik Desai,advik.desai63@gmail.com,9251375473,13,6th,Chandigarh,DAV Public School,MERN Stack Basics - Batch 6,2024-03-10,2025-06-01,1471,36,30,4,66.7,Beginner,4,Free,LKAD4237
+LK0323,Shaurya Bhatia,shaurya.bhatia77@gmail.com,9765079919,11,7th,Indore,The Shri Ram School,MERN Stack Basics - Batch 7,2025-03-24,2025-01-14,3260,28,50,17,44.1,Innovator,8,Basic,LKSH9046
+LK0324,Vihaan Chauhan,vihaan.chauhan75@gmail.com,9913397958,12,7th,Ahmedabad,Amity International School,MERN Stack Basics - Batch 6,2024-01-23,2025-06-28,3175,57,57,35,93.0,Innovator,1,Basic,LKVI6714
+LK0325,Kiara Khanna,kiara.khanna49@gmail.com,9995199234,13,6th,Lucknow,Springdales School,MERN Stack Basics - Batch 6,2025-03-07,2025-01-16,1760,4,39,24,32.6,Explorer,1,Pro,LKKI2929
+LK0326,Arjun Shukla,arjun.shukla30@gmail.com,9282933902,11,6th,Ahmedabad,Ryan International School,MERN Stack Basics - Batch 7,2024-07-02,2025-05-06,315,62,110,19,87.4,Builder,9,Basic,LKAR1241
+LK0327,Muskan Agarwal,muskan.agarwal81@gmail.com,9981389624,11,8th,Indore,Delhi Public School,MERN Stack Basics - Batch 6,2025-01-28,2025-03-05,3852,77,69,21,65.8,Explorer,10,Pro,LKMU8888
+LK0328,Dhruv Bhatia,dhruv.bhatia41@gmail.com,9776298474,11,6th,Chennai,The Shri Ram School,MERN Stack Basics - Batch 8,2024-01-10,2025-02-02,1486,38,33,41,49.9,Innovator,10,Free,LKDH2814
+LK0329,Vihaan Yadav,vihaan.yadav57@gmail.com,9252355727,12,6th,Kolkata,Bal Bharati Public School,MERN Stack Basics - Batch 7,2024-05-20,2025-06-12,4693,17,96,26,43.3,Champion,7,Free,LKVI4425
+LK0330,Kiara Pandey,kiara.pandey80@gmail.com,9333633952,13,7th,Lucknow,Delhi Public School,MERN Stack Basics - Batch 8,2025-05-19,2025-05-25,310,8,115,39,70.0,Explorer,6,Basic,LKKI4433
+LK0331,Navya Yadav,navya.yadav36@gmail.com,9358597713,13,6th,Chennai,Modern School,MERN Stack Basics - Batch 8,2024-12-10,2025-04-21,1615,78,0,45,98.8,Beginner,10,Free,LKNA4258
+LK0332,Rajan Mehta,rajan.mehta34@gmail.com,9168257819,12,7th,Hyderabad,Delhi Public School,MERN Stack Basics - Batch 8,2024-10-23,2025-01-07,1097,47,14,20,75.8,Champion,7,Basic,LKRA5194
+LK0333,Sai Rao,sai.rao43@gmail.com,9693557679,14,7th,Indore,Bal Bharati Public School,MERN Stack Basics - Batch 7,2025-01-04,2025-05-08,3540,30,54,48,57.3,Coder,10,Basic,LKSA1760
+LK0334,Deepa Gupta,deepa.gupta38@gmail.com,9248879915,11,7th,Noida,Delhi Public School,MERN Stack Basics - Batch 8,2025-04-29,2025-01-06,791,29,105,23,40.4,Innovator,5,Free,LKDE2774
+LK0335,Pranav Choudhary,pranav.choudhary88@gmail.com,9943992568,11,8th,Chennai,Bal Bharati Public School,MERN Stack Basics - Batch 8,2024-03-21,2025-03-19,3601,36,78,44,86.5,Explorer,3,Pro,LKPR9481
+LK0336,Vihaan Yadav,vihaan.yadav31@gmail.com,9920404520,11,8th,Lucknow,Amity International School,MERN Stack Basics - Batch 8,2024-07-02,2025-06-28,3475,29,67,11,54.9,Builder,2,Free,LKVI8764
+LK0337,Pooja Bajaj,pooja.bajaj25@gmail.com,9221420421,14,7th,Jaipur,The Shri Ram School,MERN Stack Basics - Batch 6,2024-06-13,2025-01-21,2126,75,59,5,64.4,Innovator,7,Free,LKPO2546
+LK0338,Deepa Kapoor,deepa.kapoor40@gmail.com,9423201667,13,6th,Bhopal,Delhi Public School,MERN Stack Basics - Batch 6,2024-01-26,2025-06-21,2289,9,14,46,72.9,Champion,8,Free,LKDE3899
+LK0339,Dhruv Kumar,dhruv.kumar80@gmail.com,9725108295,11,8th,Lucknow,Springdales School,MERN Stack Basics - Batch 7,2025-03-24,2025-01-30,1390,78,34,12,32.7,Innovator,1,Free,LKDH6035
+LK0340,Nikhil Nair,nikhil.nair11@gmail.com,9739838182,11,7th,Mumbai,Delhi Public School,MERN Stack Basics - Batch 8,2024-06-08,2025-04-18,2819,20,8,1,55.7,Beginner,2,Basic,LKNI3133
+LK0341,Mehak Desai,mehak.desai99@gmail.com,9719972269,12,7th,Mumbai,Kendriya Vidyalaya,MERN Stack Basics - Batch 7,2024-08-04,2025-02-16,1364,69,111,40,95.7,Explorer,5,Pro,LKME2738
+LK0342,Rajan Tiwari,rajan.tiwari15@gmail.com,9335627501,12,7th,Lucknow,DAV Public School,MERN Stack Basics - Batch 7,2024-03-16,2025-02-22,2481,56,19,6,43.6,Explorer,2,Basic,LKRA2953
+LK0343,Pooja Mehta,pooja.mehta91@gmail.com,9603835197,13,6th,Pune,DAV Public School,MERN Stack Basics - Batch 8,2024-10-17,2025-04-07,4573,78,15,30,78.0,Beginner,7,Basic,LKPO8415
+LK0344,Yash Shukla,yash.shukla30@gmail.com,9231772369,14,7th,Ahmedabad,Ryan International School,MERN Stack Basics - Batch 8,2024-08-13,2025-05-15,460,57,17,22,77.5,Builder,7,Basic,LKYA1946
+LK0345,Nikhil Yadav,nikhil.yadav48@gmail.com,9902036582,13,6th,Chandigarh,St. Xavier's School,MERN Stack Basics - Batch 6,2024-12-12,2025-03-27,312,11,59,22,48.2,Beginner,7,Free,LKNI5710
+LK0346,Aarush Singh,aarush.singh85@gmail.com,9484704890,13,6th,Ahmedabad,The Shri Ram School,MERN Stack Basics - Batch 7,2024-05-16,2025-03-20,2700,67,23,43,59.8,Explorer,5,Free,LKAA6466
+LK0347,Ishaan Bhatia,ishaan.bhatia42@gmail.com,9480368818,11,6th,Mumbai,Ryan International School,MERN Stack Basics - Batch 7,2025-04-02,2025-05-05,399,78,41,9,91.5,Innovator,5,Free,LKIS3429
+LK0348,Aryan Yadav,aryan.yadav74@gmail.com,9696142115,11,6th,Mumbai,Ryan International School,MERN Stack Basics - Batch 6,2024-07-20,2025-05-27,4577,9,30,41,69.5,Builder,6,Free,LKAR6569
+LK0349,Govind Kumar,govind.kumar57@gmail.com,9146700736,11,8th,Gurugram,Ryan International School,MERN Stack Basics - Batch 6,2025-04-20,2025-06-26,878,47,83,34,41.2,Explorer,9,Pro,LKGO1180
+LK0350,Kunal Shukla,kunal.shukla63@gmail.com,9561987574,14,7th,Jaipur,DAV Public School,MERN Stack Basics - Batch 7,2025-05-17,2025-05-28,645,0,57,48,31.9,Explorer,3,Basic,LKKU5934

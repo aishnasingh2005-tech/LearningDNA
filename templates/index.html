@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Learning DNA Engine</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🧠 Learning DNA Engine</h1>
+
+    <p class="subtitle">
+        AI Powered Personalized Learning Recommendation System
+    </p>
+
+    <!-- ================= Dashboard ================= -->
+
+    <div class="dashboard">
+
+        <div class="dashboard-card">
+            <h3>👥 Total Predictions</h3>
+            <h2>{{ total_predictions }}</h2>
+        </div>
+
+        <div class="dashboard-card">
+            <h3>⭐ Average Confidence</h3>
+            <h2>{{ average_confidence }}%</h2>
+        </div>
+
+        <div class="dashboard-card">
+            <h3>📺 Visual Learners</h3>
+            <h2>{{ visual }}</h2>
+        </div>
+
+        <div class="dashboard-card">
+            <h3>🎧 Audio Learners</h3>
+            <h2>{{ audio }}</h2>
+        </div>
+
+        <div class="dashboard-card">
+            <h3>📖 Reading Learners</h3>
+            <h2>{{ reading }}</h2>
+        </div>
+
+        <div class="dashboard-card">
+            <h3>🛠 Practice Learners</h3>
+            <h2>{{ practice }}</h2>
+        </div>
+
+    </div>
+
+    <br>
+
+    <div style="text-align:center;">
+
+        <a href="/history">
+
+            <button class="history-btn">
+
+                📊 View Prediction History
+
+            </button>
+
+        </a>
+
+    </div>
+
+    <br><br>
+
+    <!-- ================= Prediction Form ================= -->
+
+    <form action="/predict" method="POST">
+
+        <label>👤 Student Name</label>
+
+        <input
+            type="text"
+            name="name"
+            placeholder="Enter your name"
+            required
+        >
+
+        <label>🎂 Age</label>
+
+        <input
+            type="number"
+            name="age"
+            placeholder="Enter your age"
+            required
+        >
+
+        <label>📚 Lessons Completed</label>
+
+        <input
+            type="number"
+            name="lessons_completed"
+            placeholder="Example: 35"
+            required
+        >
+
+        <label>📝 Average Quiz Score</label>
+
+        <input
+            type="number"
+            step="0.1"
+            name="quiz_avg_score"
+            placeholder="Example: 82"
+            required
+        >
+
+        <label>🎯 Preferred Learning Method</label>
+
+        <select name="learning_method">
+
+            <option value="Watching Videos">📺 Watching Videos</option>
+
+            <option value="Reading Notes">📖 Reading Notes</option>
+
+            <option value="Listening">🎧 Listening to Lectures</option>
+
+            <option value="Hands-on Practice">🛠 Hands-on Practice</option>
+
+        </select>
+
+        <button type="submit">
+
+            🚀 Predict My Learning DNA
+
+        </button>
+
+    </form>
+
+    <div class="footer">
+
+        <br>
+
+        <hr>
+
+        <br>
+
+        <h3>✨ Powered by AI & Machine Learning</h3>
+
+        <br>
+
+        <p>
+
+            This system predicts your learning style using a trained
+            Machine Learning model and recommends personalized study
+            strategies to improve your learning experience.
+
+        </p>
+
+    </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>
