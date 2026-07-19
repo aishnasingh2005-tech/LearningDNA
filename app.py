@@ -4,6 +4,7 @@ import pandas as pd
 import sqlite3
 import csv
 import matplotlib
+import os
 matplotlib.use("Agg")
 
 import matplotlib.pyplot as plt
@@ -650,4 +651,5 @@ def download():
 
 # Run Flask
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
